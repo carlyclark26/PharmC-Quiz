@@ -1,0 +1,201 @@
+brand,generic
+Synthroid,levothyroxine
+Crestor,rosuvastatin
+Ventolin HFA,albuterol
+Nexium,esomeprazole
+Advair Diskus,fluticasone/salmeterol
+Lantus Solostar,insulin glargine
+Vyvanse,lisdexamfetamine
+Lyrica,pregabalin
+Spiriva Handihaler,tiotropium
+Januvia,sitagliptin
+Namenda,memantine
+Symbicort,budesonide/formoterol
+Cialis,tadalafil
+Suboxone,buprenorphine/naloxone
+OxyContin,oxycodone ER
+Truvada,emtricitabine/tenofovir disoproxil
+Celebrex,celecoxib
+Xarelto,rivaroxaban
+Nasonex,mometasone
+Zetia,ezetimibe
+Levemir,insulin detemir
+Humalog,insulin lispro
+Novolog,insulin aspart
+Premarin,conjugated estrogens
+Zoloft,sertraline
+Prozac,fluoxetine
+Lexapro,escitalopram
+Cymbalta,duloxetine
+Effexor XR,venlafaxine
+Pristiq,desvenlafaxine
+Abilify,aripiprazole
+Seroquel,quetiapine
+Zyprexa,olanzapine
+Risperdal,risperidone
+Concerta,methylphenidate ER
+Adderall XR,amphetamine/dextroamphetamine
+Strattera,atomoxetine
+Focalin XR,dexmethylphenidate
+Lamictal,lamotrigine
+Topamax,topiramate
+Keppra,levetiracetam
+Neurontin,gabapentin
+Depakote,divalproex
+Lidoderm,lidocaine
+Imitrex,sumatriptan
+Plavix,clopidogrel
+Brilinta,ticagrelor
+Pradaxa,dabigatran
+Eliquis,apixaban
+Warfarin,warfarin
+Humira,adalimumab
+Enbrel,etanercept
+Remicade,infliximab
+Stelara,ustekinumab
+Xeljanz,tofacitinib
+Cosentyx,secukinumab
+Harvoni,ledipasvir/sofosbuvir
+Epclusa,sofosbuvir/velpatasvir
+Sovaldi,sofosbuvir
+Keytruda,pembrolizumab
+Opdivo,nivolumab
+Herceptin,trastuzumab
+Avastin,bevacizumab
+Gleevec,imatinib
+Revlimid,lenalidomide
+Ibrance,palbociclib
+Tarceva,erlotinib
+Imbruvica,ibrutinib
+Prolia,denosumab
+Zytiga,abiraterone
+Xtandi,enzalutamide
+Lupron,leuprolide
+Forteo,teriparatide
+Actonel,risedronate
+Fosamax,alendronate
+Evista,raloxifene
+Boniva,ibandronate
+Xopenex,levalbuterol
+Atrovent,ipratropium
+Singulair,montelukast
+Alvesco,ciclesonide
+Pulmicort,budesonide
+Flovent,fluticasone
+Qvar,beclomethasone
+Breo Ellipta,fluticasone/vilanterol
+Anoro Ellipta,umeclidinium/vilanterol
+Incruse Ellipta,umeclidinium
+Tudorza Pressair,aclidinium
+DuoNeb,ipratropium/albuterol
+Combivent Respimat,ipratropium/albuterol
+Zithromax,azithromycin
+Amoxil,amoxicillin
+Augmentin,amoxicillin/clavulanate
+Keflex,cephalexin
+Omnicef,cefdinir
+Ceftin,cefuroxime
+Levaquin,levofloxacin
+Cipro,ciprofloxacin
+Bactrim,sulfamethoxazole/trimethoprim
+Macrobid,nitrofurantoin
+Doxycycline,doxycycline hyclate
+Minocin,minocycline
+Flagyl,metronidazole
+Cleocin,clindamycin
+Diflucan,fluconazole
+Vancocin,vancomycin
+Zovirax,acyclovir
+Valtrex,valacyclovir
+Lioresal,baclofen
+Zanaflex,tizanidine
+Flexeril,cyclobenzaprine
+Soma,carisoprodol
+Robaxin,methocarbamol
+Norflex,orphenadrine
+Lasix,furosemide
+Microzide,hydrochlorothiazide
+Aldactone,spironolactone
+Dyazide,triamterene/hydrochlorothiazide
+Bumex,bumetanide
+Demadex,torsemide
+Zaroxolyn,metolazone
+Prinivil,lisinopril
+Cozaar,losartan
+Diovan,valsartan
+Benicar,olmesartan
+Altace,ramipril
+Lotensin,benazepril
+Vasotec,enalapril
+Norvasc,amlodipine
+Lopressor,metoprolol tartrate
+Toprol XL,metoprolol succinate
+Tenormin,atenolol
+Coreg,carvedilol
+Inderal,propranolol
+Bystolic,nebivolol
+Hydralazine,hydralazine
+Catapres,clonidine
+Benicar HCT,olmesartan/hydrochlorothiazide
+Diovan HCT,valsartan/hydrochlorothiazide
+Zestoretic,lisinopril/hydrochlorothiazide
+Hyzaar,losartan/hydrochlorothiazide
+Calan,verapamil
+Cardizem,diltiazem
+Plendil,felodipine
+Adalat CC,nifedipine
+Lotrel,amlodipine/benazepril
+Caduet,amlodipine/atorvastatin
+Lipitor,atorvastatin
+Zocor,simvastatin
+Pravachol,pravastatin
+Mevacor,lovastatin
+Livalo,pitavastatin
+Welchol,colesevelam
+Tricor,fenofibrate
+Lopid,gemfibrozil
+Niaspan,niacin ER
+Vascepa,icosapent ethyl
+Lovaza,omega-3 acid ethyl esters
+Jardiance,empagliflozin
+Invokana,canagliflozin
+Farxiga,dapagliflozin
+Glucophage,metformin
+Victoza,liraglutide
+Bydureon,exenatide ER
+Trulicity,dulaglutide
+Ozempic,semaglutide
+Basaglar,insulin glargine
+Toujeo,insulin glargine
+Tresiba,insulin degludec
+Humulin N,insulin NPH
+Humulin R,regular insulin
+Humulin 70/30,insulin NPH/regular
+Glucotrol,glipizide
+Amaryl,glimepiride
+Diabeta,glyburide
+Actos,pioglitazone
+Janumet,sitagliptin/metformin
+Xigduo XR,dapagliflozin/metformin
+Synjardy,empagliflozin/metformin
+Bactroban,mupirocin
+Kenalog,triamcinolone
+Elocon,mometasone
+Temovate,clobetasol
+Lotrisone,clotrimazole/betamethasone
+Retin-A,tretinoin
+Clarinex,desloratadine
+Zyrtec,cetirizine
+Xyzal,levocetirizine
+Allegra,fexofenadine
+Claritin,loratadine
+Flonase,fluticasone nasal
+Astelin,azelastine nasal
+Pataday,olopatadine
+Restasis,cyclosporine ophthalmic
+Xalatan,latanoprost
+Travatan Z,travoprost
+Cosopt,dorzolamide/timolol
+Timoptic,timolol
+Alphagan P,brimonidine
+Pepcid,famotidine
