@@ -1,0 +1,6414 @@
+{
+  "brand_to_generic": {
+    "multiple_choice": [
+      {
+        "id": "brand_to_generic-mc-1",
+        "question": "What is the generic for Synthroid?",
+        "options": [
+          "levothyroxine",
+          "dabigatran",
+          "lisinopril",
+          "levocetirizine"
+        ],
+        "answer": "levothyroxine"
+      },
+      {
+        "id": "brand_to_generic-mc-2",
+        "question": "What is the generic for Crestor?",
+        "options": [
+          "tretinoin",
+          "latanoprost",
+          "rosuvastatin",
+          "travoprost"
+        ],
+        "answer": "rosuvastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-3",
+        "question": "What is the generic for Ventolin HFA?",
+        "options": [
+          "albuterol",
+          "exenatide ER",
+          "loratadine",
+          "amlodipine"
+        ],
+        "answer": "albuterol"
+      },
+      {
+        "id": "brand_to_generic-mc-4",
+        "question": "What is the generic for Nexium?",
+        "options": [
+          "losartan/hydrochlorothiazide",
+          "ciclesonide",
+          "esomeprazole",
+          "mometasone"
+        ],
+        "answer": "esomeprazole"
+      },
+      {
+        "id": "brand_to_generic-mc-5",
+        "question": "What is the generic for Advair Diskus?",
+        "options": [
+          "famotidine",
+          "fexofenadine",
+          "ustekinumab",
+          "fluticasone/salmeterol"
+        ],
+        "answer": "fluticasone/salmeterol"
+      },
+      {
+        "id": "brand_to_generic-mc-6",
+        "question": "What is the generic for Lantus Solostar?",
+        "options": [
+          "insulin glargine",
+          "acyclovir",
+          "secukinumab",
+          "olmesartan/hydrochlorothiazide"
+        ],
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-mc-7",
+        "question": "What is the generic for Vyvanse?",
+        "options": [
+          "metolazone",
+          "cetirizine",
+          "lisdexamfetamine",
+          "olanzapine"
+        ],
+        "answer": "lisdexamfetamine"
+      },
+      {
+        "id": "brand_to_generic-mc-8",
+        "question": "What is the generic for Lyrica?",
+        "options": [
+          "umeclidinium/vilanterol",
+          "pregabalin",
+          "ipratropium/albuterol",
+          "infliximab"
+        ],
+        "answer": "pregabalin"
+      },
+      {
+        "id": "brand_to_generic-mc-9",
+        "question": "What is the generic for Spiriva Handihaler?",
+        "options": [
+          "amlodipine/atorvastatin",
+          "secukinumab",
+          "fluticasone",
+          "tiotropium"
+        ],
+        "answer": "tiotropium"
+      },
+      {
+        "id": "brand_to_generic-mc-10",
+        "question": "What is the generic for Januvia?",
+        "options": [
+          "sitagliptin",
+          "sofosbuvir",
+          "olopatadine",
+          "budesonide/formoterol"
+        ],
+        "answer": "sitagliptin"
+      },
+      {
+        "id": "brand_to_generic-mc-11",
+        "question": "What is the generic for Namenda?",
+        "options": [
+          "amlodipine/atorvastatin",
+          "brimonidine",
+          "mometasone",
+          "memantine"
+        ],
+        "answer": "memantine"
+      },
+      {
+        "id": "brand_to_generic-mc-12",
+        "question": "What is the generic for Symbicort?",
+        "options": [
+          "icosapent ethyl",
+          "budesonide/formoterol",
+          "umeclidinium/vilanterol",
+          "insulin degludec"
+        ],
+        "answer": "budesonide/formoterol"
+      },
+      {
+        "id": "brand_to_generic-mc-13",
+        "question": "What is the generic for Cialis?",
+        "options": [
+          "tadalafil",
+          "cefdinir",
+          "amphetamine/dextroamphetamine",
+          "infliximab"
+        ],
+        "answer": "tadalafil"
+      },
+      {
+        "id": "brand_to_generic-mc-14",
+        "question": "What is the generic for Suboxone?",
+        "options": [
+          "denosumab",
+          "buprenorphine/naloxone",
+          "doxycycline hyclate",
+          "dapagliflozin"
+        ],
+        "answer": "buprenorphine/naloxone"
+      },
+      {
+        "id": "brand_to_generic-mc-15",
+        "question": "What is the generic for OxyContin?",
+        "options": [
+          "mupirocin",
+          "sumatriptan",
+          "oxycodone ER",
+          "sitagliptin/metformin"
+        ],
+        "answer": "oxycodone ER"
+      },
+      {
+        "id": "brand_to_generic-mc-16",
+        "question": "What is the generic for Truvada?",
+        "options": [
+          "sitagliptin/metformin",
+          "rivaroxaban",
+          "emtricitabine/tenofovir disoproxil",
+          "pravastatin"
+        ],
+        "answer": "emtricitabine/tenofovir disoproxil"
+      },
+      {
+        "id": "brand_to_generic-mc-17",
+        "question": "What is the generic for Celebrex?",
+        "options": [
+          "mometasone",
+          "topiramate",
+          "celecoxib",
+          "orphenadrine"
+        ],
+        "answer": "celecoxib"
+      },
+      {
+        "id": "brand_to_generic-mc-18",
+        "question": "What is the generic for Xarelto?",
+        "options": [
+          "insulin lispro",
+          "rivaroxaban",
+          "risedronate",
+          "etanercept"
+        ],
+        "answer": "rivaroxaban"
+      },
+      {
+        "id": "brand_to_generic-mc-19",
+        "question": "What is the generic for Nasonex?",
+        "options": [
+          "niacin ER",
+          "denosumab",
+          "olmesartan",
+          "mometasone"
+        ],
+        "answer": "mometasone"
+      },
+      {
+        "id": "brand_to_generic-mc-20",
+        "question": "What is the generic for Zetia?",
+        "options": [
+          "ezetimibe",
+          "infliximab",
+          "mometasone",
+          "ipratropium"
+        ],
+        "answer": "ezetimibe"
+      },
+      {
+        "id": "brand_to_generic-mc-21",
+        "question": "What is the generic for Levemir?",
+        "options": [
+          "regular insulin",
+          "amlodipine/benazepril",
+          "insulin detemir",
+          "fexofenadine"
+        ],
+        "answer": "insulin detemir"
+      },
+      {
+        "id": "brand_to_generic-mc-22",
+        "question": "What is the generic for Humalog?",
+        "options": [
+          "ledipasvir/sofosbuvir",
+          "etanercept",
+          "enalapril",
+          "insulin lispro"
+        ],
+        "answer": "insulin lispro"
+      },
+      {
+        "id": "brand_to_generic-mc-23",
+        "question": "What is the generic for Novolog?",
+        "options": [
+          "insulin aspart",
+          "amoxicillin",
+          "cyclosporine ophthalmic",
+          "fluticasone"
+        ],
+        "answer": "insulin aspart"
+      },
+      {
+        "id": "brand_to_generic-mc-24",
+        "question": "What is the generic for Premarin?",
+        "options": [
+          "desloratadine",
+          "exenatide ER",
+          "conjugated estrogens",
+          "fluticasone nasal"
+        ],
+        "answer": "conjugated estrogens"
+      },
+      {
+        "id": "brand_to_generic-mc-25",
+        "question": "What is the generic for Zoloft?",
+        "options": [
+          "sertraline",
+          "oxycodone ER",
+          "risperidone",
+          "propranolol"
+        ],
+        "answer": "sertraline"
+      },
+      {
+        "id": "brand_to_generic-mc-26",
+        "question": "What is the generic for Prozac?",
+        "options": [
+          "clopidogrel",
+          "metoprolol succinate",
+          "trastuzumab",
+          "fluoxetine"
+        ],
+        "answer": "fluoxetine"
+      },
+      {
+        "id": "brand_to_generic-mc-27",
+        "question": "What is the generic for Lexapro?",
+        "options": [
+          "insulin aspart",
+          "escitalopram",
+          "risperidone",
+          "divalproex"
+        ],
+        "answer": "escitalopram"
+      },
+      {
+        "id": "brand_to_generic-mc-28",
+        "question": "What is the generic for Cymbalta?",
+        "options": [
+          "fenofibrate",
+          "duloxetine",
+          "nifedipine",
+          "venlafaxine"
+        ],
+        "answer": "duloxetine"
+      },
+      {
+        "id": "brand_to_generic-mc-29",
+        "question": "What is the generic for Effexor XR?",
+        "options": [
+          "olanzapine",
+          "teriparatide",
+          "venlafaxine",
+          "levothyroxine"
+        ],
+        "answer": "venlafaxine"
+      },
+      {
+        "id": "brand_to_generic-mc-30",
+        "question": "What is the generic for Pristiq?",
+        "options": [
+          "desvenlafaxine",
+          "escitalopram",
+          "dapagliflozin",
+          "exenatide ER"
+        ],
+        "answer": "desvenlafaxine"
+      },
+      {
+        "id": "brand_to_generic-mc-31",
+        "question": "What is the generic for Abilify?",
+        "options": [
+          "insulin glargine",
+          "torsemide",
+          "aripiprazole",
+          "warfarin"
+        ],
+        "answer": "aripiprazole"
+      },
+      {
+        "id": "brand_to_generic-mc-32",
+        "question": "What is the generic for Seroquel?",
+        "options": [
+          "fexofenadine",
+          "enzalutamide",
+          "triamterene/hydrochlorothiazide",
+          "quetiapine"
+        ],
+        "answer": "quetiapine"
+      },
+      {
+        "id": "brand_to_generic-mc-33",
+        "question": "What is the generic for Zyprexa?",
+        "options": [
+          "pitavastatin",
+          "clindamycin",
+          "hydrochlorothiazide",
+          "olanzapine"
+        ],
+        "answer": "olanzapine"
+      },
+      {
+        "id": "brand_to_generic-mc-34",
+        "question": "What is the generic for Risperdal?",
+        "options": [
+          "divalproex",
+          "ciclesonide",
+          "tofacitinib",
+          "risperidone"
+        ],
+        "answer": "risperidone"
+      },
+      {
+        "id": "brand_to_generic-mc-35",
+        "question": "What is the generic for Concerta?",
+        "options": [
+          "sitagliptin/metformin",
+          "triamterene/hydrochlorothiazide",
+          "methylphenidate ER",
+          "amoxicillin/clavulanate"
+        ],
+        "answer": "methylphenidate ER"
+      },
+      {
+        "id": "brand_to_generic-mc-36",
+        "question": "What is the generic for Adderall XR?",
+        "options": [
+          "glimepiride",
+          "amphetamine/dextroamphetamine",
+          "brimonidine",
+          "levothyroxine"
+        ],
+        "answer": "amphetamine/dextroamphetamine"
+      },
+      {
+        "id": "brand_to_generic-mc-37",
+        "question": "What is the generic for Strattera?",
+        "options": [
+          "insulin NPH",
+          "sitagliptin",
+          "secukinumab",
+          "atomoxetine"
+        ],
+        "answer": "atomoxetine"
+      },
+      {
+        "id": "brand_to_generic-mc-38",
+        "question": "What is the generic for Focalin XR?",
+        "options": [
+          "dexmethylphenidate",
+          "tadalafil",
+          "verapamil",
+          "carisoprodol"
+        ],
+        "answer": "dexmethylphenidate"
+      },
+      {
+        "id": "brand_to_generic-mc-39",
+        "question": "What is the generic for Lamictal?",
+        "options": [
+          "lamotrigine",
+          "insulin NPH/regular",
+          "diltiazem",
+          "erlotinib"
+        ],
+        "answer": "lamotrigine"
+      },
+      {
+        "id": "brand_to_generic-mc-40",
+        "question": "What is the generic for Topamax?",
+        "options": [
+          "methylphenidate ER",
+          "topiramate",
+          "carisoprodol",
+          "rivaroxaban"
+        ],
+        "answer": "topiramate"
+      },
+      {
+        "id": "brand_to_generic-mc-41",
+        "question": "What is the generic for Keppra?",
+        "options": [
+          "montelukast",
+          "enalapril",
+          "levetiracetam",
+          "palbociclib"
+        ],
+        "answer": "levetiracetam"
+      },
+      {
+        "id": "brand_to_generic-mc-42",
+        "question": "What is the generic for Neurontin?",
+        "options": [
+          "benazepril",
+          "gabapentin",
+          "methocarbamol",
+          "empagliflozin"
+        ],
+        "answer": "gabapentin"
+      },
+      {
+        "id": "brand_to_generic-mc-43",
+        "question": "What is the generic for Depakote?",
+        "options": [
+          "divalproex",
+          "brimonidine",
+          "quetiapine",
+          "aripiprazole"
+        ],
+        "answer": "divalproex"
+      },
+      {
+        "id": "brand_to_generic-mc-44",
+        "question": "What is the generic for Lidoderm?",
+        "options": [
+          "lidocaine",
+          "mometasone",
+          "sertraline",
+          "metoprolol succinate"
+        ],
+        "answer": "lidocaine"
+      },
+      {
+        "id": "brand_to_generic-mc-45",
+        "question": "What is the generic for Imitrex?",
+        "options": [
+          "nivolumab",
+          "sumatriptan",
+          "enzalutamide",
+          "lisdexamfetamine"
+        ],
+        "answer": "sumatriptan"
+      },
+      {
+        "id": "brand_to_generic-mc-46",
+        "question": "What is the generic for Plavix?",
+        "options": [
+          "lovastatin",
+          "clopidogrel",
+          "amlodipine/atorvastatin",
+          "secukinumab"
+        ],
+        "answer": "clopidogrel"
+      },
+      {
+        "id": "brand_to_generic-mc-47",
+        "question": "What is the generic for Brilinta?",
+        "options": [
+          "ticagrelor",
+          "gemfibrozil",
+          "mometasone",
+          "mupirocin"
+        ],
+        "answer": "ticagrelor"
+      },
+      {
+        "id": "brand_to_generic-mc-48",
+        "question": "What is the generic for Pradaxa?",
+        "options": [
+          "levothyroxine",
+          "nivolumab",
+          "dabigatran",
+          "dorzolamide/timolol"
+        ],
+        "answer": "dabigatran"
+      },
+      {
+        "id": "brand_to_generic-mc-49",
+        "question": "What is the generic for Eliquis?",
+        "options": [
+          "atorvastatin",
+          "valsartan/hydrochlorothiazide",
+          "vancomycin",
+          "apixaban"
+        ],
+        "answer": "apixaban"
+      },
+      {
+        "id": "brand_to_generic-mc-50",
+        "question": "What is the generic for Warfarin?",
+        "options": [
+          "insulin glargine",
+          "warfarin",
+          "lenalidomide",
+          "diltiazem"
+        ],
+        "answer": "warfarin"
+      },
+      {
+        "id": "brand_to_generic-mc-51",
+        "question": "What is the generic for Humira?",
+        "options": [
+          "spironolactone",
+          "venlafaxine",
+          "dulaglutide",
+          "adalimumab"
+        ],
+        "answer": "adalimumab"
+      },
+      {
+        "id": "brand_to_generic-mc-52",
+        "question": "What is the generic for Enbrel?",
+        "options": [
+          "nebivolol",
+          "etanercept",
+          "fluticasone",
+          "metoprolol tartrate"
+        ],
+        "answer": "etanercept"
+      },
+      {
+        "id": "brand_to_generic-mc-53",
+        "question": "What is the generic for Remicade?",
+        "options": [
+          "infliximab",
+          "pembrolizumab",
+          "baclofen",
+          "metolazone"
+        ],
+        "answer": "infliximab"
+      },
+      {
+        "id": "brand_to_generic-mc-54",
+        "question": "What is the generic for Stelara?",
+        "options": [
+          "ustekinumab",
+          "lisinopril/hydrochlorothiazide",
+          "insulin glargine",
+          "metolazone"
+        ],
+        "answer": "ustekinumab"
+      },
+      {
+        "id": "brand_to_generic-mc-55",
+        "question": "What is the generic for Xeljanz?",
+        "options": [
+          "ustekinumab",
+          "insulin glargine",
+          "denosumab",
+          "tofacitinib"
+        ],
+        "answer": "tofacitinib"
+      },
+      {
+        "id": "brand_to_generic-mc-56",
+        "question": "What is the generic for Cosentyx?",
+        "options": [
+          "secukinumab",
+          "risedronate",
+          "insulin degludec",
+          "budesonide"
+        ],
+        "answer": "secukinumab"
+      },
+      {
+        "id": "brand_to_generic-mc-57",
+        "question": "What is the generic for Harvoni?",
+        "options": [
+          "ledipasvir/sofosbuvir",
+          "icosapent ethyl",
+          "torsemide",
+          "teriparatide"
+        ],
+        "answer": "ledipasvir/sofosbuvir"
+      },
+      {
+        "id": "brand_to_generic-mc-58",
+        "question": "What is the generic for Epclusa?",
+        "options": [
+          "dabigatran",
+          "fluticasone nasal",
+          "risedronate",
+          "sofosbuvir/velpatasvir"
+        ],
+        "answer": "sofosbuvir/velpatasvir"
+      },
+      {
+        "id": "brand_to_generic-mc-59",
+        "question": "What is the generic for Sovaldi?",
+        "options": [
+          "insulin glargine",
+          "sofosbuvir",
+          "ciprofloxacin",
+          "fenofibrate"
+        ],
+        "answer": "sofosbuvir"
+      },
+      {
+        "id": "brand_to_generic-mc-60",
+        "question": "What is the generic for Keytruda?",
+        "options": [
+          "tizanidine",
+          "pembrolizumab",
+          "fluoxetine",
+          "omega-3 acid ethyl esters"
+        ],
+        "answer": "pembrolizumab"
+      },
+      {
+        "id": "brand_to_generic-mc-61",
+        "question": "What is the generic for Opdivo?",
+        "options": [
+          "nivolumab",
+          "pravastatin",
+          "erlotinib",
+          "travoprost"
+        ],
+        "answer": "nivolumab"
+      },
+      {
+        "id": "brand_to_generic-mc-62",
+        "question": "What is the generic for Herceptin?",
+        "options": [
+          "nebivolol",
+          "apixaban",
+          "glipizide",
+          "trastuzumab"
+        ],
+        "answer": "trastuzumab"
+      },
+      {
+        "id": "brand_to_generic-mc-63",
+        "question": "What is the generic for Avastin?",
+        "options": [
+          "abiraterone",
+          "bevacizumab",
+          "lisinopril",
+          "clotrimazole/betamethasone"
+        ],
+        "answer": "bevacizumab"
+      },
+      {
+        "id": "brand_to_generic-mc-64",
+        "question": "What is the generic for Gleevec?",
+        "options": [
+          "fluoxetine",
+          "imatinib",
+          "abiraterone",
+          "colesevelam"
+        ],
+        "answer": "imatinib"
+      },
+      {
+        "id": "brand_to_generic-mc-65",
+        "question": "What is the generic for Revlimid?",
+        "options": [
+          "lenalidomide",
+          "pitavastatin",
+          "fluoxetine",
+          "insulin glargine"
+        ],
+        "answer": "lenalidomide"
+      },
+      {
+        "id": "brand_to_generic-mc-66",
+        "question": "What is the generic for Ibrance?",
+        "options": [
+          "divalproex",
+          "palbociclib",
+          "insulin glargine",
+          "ibandronate"
+        ],
+        "answer": "palbociclib"
+      },
+      {
+        "id": "brand_to_generic-mc-67",
+        "question": "What is the generic for Tarceva?",
+        "options": [
+          "sitagliptin/metformin",
+          "erlotinib",
+          "duloxetine",
+          "risperidone"
+        ],
+        "answer": "erlotinib"
+      },
+      {
+        "id": "brand_to_generic-mc-68",
+        "question": "What is the generic for Imbruvica?",
+        "options": [
+          "umeclidinium",
+          "ibrutinib",
+          "liraglutide",
+          "triamcinolone"
+        ],
+        "answer": "ibrutinib"
+      },
+      {
+        "id": "brand_to_generic-mc-69",
+        "question": "What is the generic for Prolia?",
+        "options": [
+          "denosumab",
+          "amphetamine/dextroamphetamine",
+          "sulfamethoxazole/trimethoprim",
+          "amlodipine/atorvastatin"
+        ],
+        "answer": "denosumab"
+      },
+      {
+        "id": "brand_to_generic-mc-70",
+        "question": "What is the generic for Zytiga?",
+        "options": [
+          "verapamil",
+          "secukinumab",
+          "risperidone",
+          "abiraterone"
+        ],
+        "answer": "abiraterone"
+      },
+      {
+        "id": "brand_to_generic-mc-71",
+        "question": "What is the generic for Xtandi?",
+        "options": [
+          "glimepiride",
+          "olanzapine",
+          "enzalutamide",
+          "risperidone"
+        ],
+        "answer": "enzalutamide"
+      },
+      {
+        "id": "brand_to_generic-mc-72",
+        "question": "What is the generic for Lupron?",
+        "options": [
+          "leuprolide",
+          "glyburide",
+          "empagliflozin",
+          "dulaglutide"
+        ],
+        "answer": "leuprolide"
+      },
+      {
+        "id": "brand_to_generic-mc-73",
+        "question": "What is the generic for Forteo?",
+        "options": [
+          "tiotropium",
+          "losartan",
+          "teriparatide",
+          "topiramate"
+        ],
+        "answer": "teriparatide"
+      },
+      {
+        "id": "brand_to_generic-mc-74",
+        "question": "What is the generic for Actonel?",
+        "options": [
+          "torsemide",
+          "ipratropium/albuterol",
+          "raloxifene",
+          "risedronate"
+        ],
+        "answer": "risedronate"
+      },
+      {
+        "id": "brand_to_generic-mc-75",
+        "question": "What is the generic for Fosamax?",
+        "options": [
+          "alendronate",
+          "insulin glargine",
+          "diltiazem",
+          "tiotropium"
+        ],
+        "answer": "alendronate"
+      },
+      {
+        "id": "brand_to_generic-mc-76",
+        "question": "What is the generic for Evista?",
+        "options": [
+          "insulin glargine",
+          "enalapril",
+          "raloxifene",
+          "dulaglutide"
+        ],
+        "answer": "raloxifene"
+      },
+      {
+        "id": "brand_to_generic-mc-77",
+        "question": "What is the generic for Boniva?",
+        "options": [
+          "levetiracetam",
+          "ibandronate",
+          "cefdinir",
+          "celecoxib"
+        ],
+        "answer": "ibandronate"
+      },
+      {
+        "id": "brand_to_generic-mc-78",
+        "question": "What is the generic for Xopenex?",
+        "options": [
+          "metolazone",
+          "fluticasone/vilanterol",
+          "levalbuterol",
+          "orphenadrine"
+        ],
+        "answer": "levalbuterol"
+      },
+      {
+        "id": "brand_to_generic-mc-79",
+        "question": "What is the generic for Atrovent?",
+        "options": [
+          "tadalafil",
+          "ipratropium",
+          "teriparatide",
+          "tizanidine"
+        ],
+        "answer": "ipratropium"
+      },
+      {
+        "id": "brand_to_generic-mc-80",
+        "question": "What is the generic for Singulair?",
+        "options": [
+          "montelukast",
+          "glipizide",
+          "torsemide",
+          "valsartan"
+        ],
+        "answer": "montelukast"
+      },
+      {
+        "id": "brand_to_generic-mc-81",
+        "question": "What is the generic for Alvesco?",
+        "options": [
+          "glipizide",
+          "dulaglutide",
+          "ciclesonide",
+          "regular insulin"
+        ],
+        "answer": "ciclesonide"
+      },
+      {
+        "id": "brand_to_generic-mc-82",
+        "question": "What is the generic for Pulmicort?",
+        "options": [
+          "raloxifene",
+          "budesonide",
+          "pravastatin",
+          "ramipril"
+        ],
+        "answer": "budesonide"
+      },
+      {
+        "id": "brand_to_generic-mc-83",
+        "question": "What is the generic for Flovent?",
+        "options": [
+          "levocetirizine",
+          "glimepiride",
+          "lisinopril/hydrochlorothiazide",
+          "fluticasone"
+        ],
+        "answer": "fluticasone"
+      },
+      {
+        "id": "brand_to_generic-mc-84",
+        "question": "What is the generic for Qvar?",
+        "options": [
+          "beclomethasone",
+          "montelukast",
+          "insulin glargine",
+          "ciclesonide"
+        ],
+        "answer": "beclomethasone"
+      },
+      {
+        "id": "brand_to_generic-mc-85",
+        "question": "What is the generic for Breo Ellipta?",
+        "options": [
+          "amphetamine/dextroamphetamine",
+          "fluticasone/vilanterol",
+          "dapagliflozin",
+          "valsartan/hydrochlorothiazide"
+        ],
+        "answer": "fluticasone/vilanterol"
+      },
+      {
+        "id": "brand_to_generic-mc-86",
+        "question": "What is the generic for Anoro Ellipta?",
+        "options": [
+          "umeclidinium/vilanterol",
+          "buprenorphine/naloxone",
+          "azithromycin",
+          "lamotrigine"
+        ],
+        "answer": "umeclidinium/vilanterol"
+      },
+      {
+        "id": "brand_to_generic-mc-87",
+        "question": "What is the generic for Incruse Ellipta?",
+        "options": [
+          "cyclosporine ophthalmic",
+          "adalimumab",
+          "umeclidinium",
+          "ciclesonide"
+        ],
+        "answer": "umeclidinium"
+      },
+      {
+        "id": "brand_to_generic-mc-88",
+        "question": "What is the generic for Tudorza Pressair?",
+        "options": [
+          "aclidinium",
+          "levetiracetam",
+          "tadalafil",
+          "clonidine"
+        ],
+        "answer": "aclidinium"
+      },
+      {
+        "id": "brand_to_generic-mc-89",
+        "question": "What is the generic for DuoNeb?",
+        "options": [
+          "ipratropium/albuterol",
+          "metronidazole",
+          "valacyclovir",
+          "buprenorphine/naloxone"
+        ],
+        "answer": "ipratropium/albuterol"
+      },
+      {
+        "id": "brand_to_generic-mc-90",
+        "question": "What is the generic for Combivent Respimat?",
+        "options": [
+          "methylphenidate ER",
+          "esomeprazole",
+          "cefuroxime",
+          "ipratropium/albuterol"
+        ],
+        "answer": "ipratropium/albuterol"
+      },
+      {
+        "id": "brand_to_generic-mc-91",
+        "question": "What is the generic for Zithromax?",
+        "options": [
+          "aclidinium",
+          "imatinib",
+          "quetiapine",
+          "azithromycin"
+        ],
+        "answer": "azithromycin"
+      },
+      {
+        "id": "brand_to_generic-mc-92",
+        "question": "What is the generic for Amoxil?",
+        "options": [
+          "loratadine",
+          "glimepiride",
+          "fenofibrate",
+          "amoxicillin"
+        ],
+        "answer": "amoxicillin"
+      },
+      {
+        "id": "brand_to_generic-mc-93",
+        "question": "What is the generic for Augmentin?",
+        "options": [
+          "etanercept",
+          "desvenlafaxine",
+          "olanzapine",
+          "amoxicillin/clavulanate"
+        ],
+        "answer": "amoxicillin/clavulanate"
+      },
+      {
+        "id": "brand_to_generic-mc-94",
+        "question": "What is the generic for Keflex?",
+        "options": [
+          "levocetirizine",
+          "cephalexin",
+          "amlodipine",
+          "spironolactone"
+        ],
+        "answer": "cephalexin"
+      },
+      {
+        "id": "brand_to_generic-mc-95",
+        "question": "What is the generic for Omnicef?",
+        "options": [
+          "hydralazine",
+          "cefdinir",
+          "dulaglutide",
+          "insulin NPH"
+        ],
+        "answer": "cefdinir"
+      },
+      {
+        "id": "brand_to_generic-mc-96",
+        "question": "What is the generic for Ceftin?",
+        "options": [
+          "cefuroxime",
+          "metformin",
+          "cefdinir",
+          "valsartan/hydrochlorothiazide"
+        ],
+        "answer": "cefuroxime"
+      },
+      {
+        "id": "brand_to_generic-mc-97",
+        "question": "What is the generic for Levaquin?",
+        "options": [
+          "olmesartan",
+          "icosapent ethyl",
+          "colesevelam",
+          "levofloxacin"
+        ],
+        "answer": "levofloxacin"
+      },
+      {
+        "id": "brand_to_generic-mc-98",
+        "question": "What is the generic for Cipro?",
+        "options": [
+          "semaglutide",
+          "vancomycin",
+          "cetirizine",
+          "ciprofloxacin"
+        ],
+        "answer": "ciprofloxacin"
+      },
+      {
+        "id": "brand_to_generic-mc-99",
+        "question": "What is the generic for Bactrim?",
+        "options": [
+          "fluticasone/salmeterol",
+          "imatinib",
+          "venlafaxine",
+          "sulfamethoxazole/trimethoprim"
+        ],
+        "answer": "sulfamethoxazole/trimethoprim"
+      },
+      {
+        "id": "brand_to_generic-mc-100",
+        "question": "What is the generic for Macrobid?",
+        "options": [
+          "abiraterone",
+          "esomeprazole",
+          "nitrofurantoin",
+          "apixaban"
+        ],
+        "answer": "nitrofurantoin"
+      },
+      {
+        "id": "brand_to_generic-mc-101",
+        "question": "What is the generic for Doxycycline?",
+        "options": [
+          "sofosbuvir",
+          "doxycycline hyclate",
+          "gabapentin",
+          "nivolumab"
+        ],
+        "answer": "doxycycline hyclate"
+      },
+      {
+        "id": "brand_to_generic-mc-102",
+        "question": "What is the generic for Minocin?",
+        "options": [
+          "minocycline",
+          "lenalidomide",
+          "amoxicillin",
+          "memantine"
+        ],
+        "answer": "minocycline"
+      },
+      {
+        "id": "brand_to_generic-mc-103",
+        "question": "What is the generic for Flagyl?",
+        "options": [
+          "metronidazole",
+          "nifedipine",
+          "lidocaine",
+          "duloxetine"
+        ],
+        "answer": "metronidazole"
+      },
+      {
+        "id": "brand_to_generic-mc-104",
+        "question": "What is the generic for Cleocin?",
+        "options": [
+          "travoprost",
+          "simvastatin",
+          "atenolol",
+          "clindamycin"
+        ],
+        "answer": "clindamycin"
+      },
+      {
+        "id": "brand_to_generic-mc-105",
+        "question": "What is the generic for Diflucan?",
+        "options": [
+          "sitagliptin",
+          "brimonidine",
+          "fluconazole",
+          "glyburide"
+        ],
+        "answer": "fluconazole"
+      },
+      {
+        "id": "brand_to_generic-mc-106",
+        "question": "What is the generic for Vancocin?",
+        "options": [
+          "losartan/hydrochlorothiazide",
+          "bumetanide",
+          "vancomycin",
+          "levothyroxine"
+        ],
+        "answer": "vancomycin"
+      },
+      {
+        "id": "brand_to_generic-mc-107",
+        "question": "What is the generic for Zovirax?",
+        "options": [
+          "dexmethylphenidate",
+          "acyclovir",
+          "oxycodone ER",
+          "ustekinumab"
+        ],
+        "answer": "acyclovir"
+      },
+      {
+        "id": "brand_to_generic-mc-108",
+        "question": "What is the generic for Valtrex?",
+        "options": [
+          "insulin detemir",
+          "cetirizine",
+          "valacyclovir",
+          "bumetanide"
+        ],
+        "answer": "valacyclovir"
+      },
+      {
+        "id": "brand_to_generic-mc-109",
+        "question": "What is the generic for Lioresal?",
+        "options": [
+          "insulin detemir",
+          "gabapentin",
+          "latanoprost",
+          "baclofen"
+        ],
+        "answer": "baclofen"
+      },
+      {
+        "id": "brand_to_generic-mc-110",
+        "question": "What is the generic for Zanaflex?",
+        "options": [
+          "tizanidine",
+          "lisinopril",
+          "fluconazole",
+          "pembrolizumab"
+        ],
+        "answer": "tizanidine"
+      },
+      {
+        "id": "brand_to_generic-mc-111",
+        "question": "What is the generic for Flexeril?",
+        "options": [
+          "travoprost",
+          "clonidine",
+          "cyclosporine ophthalmic",
+          "cyclobenzaprine"
+        ],
+        "answer": "cyclobenzaprine"
+      },
+      {
+        "id": "brand_to_generic-mc-112",
+        "question": "What is the generic for Soma?",
+        "options": [
+          "mometasone",
+          "carisoprodol",
+          "liraglutide",
+          "tretinoin"
+        ],
+        "answer": "carisoprodol"
+      },
+      {
+        "id": "brand_to_generic-mc-113",
+        "question": "What is the generic for Robaxin?",
+        "options": [
+          "adalimumab",
+          "topiramate",
+          "fluticasone nasal",
+          "methocarbamol"
+        ],
+        "answer": "methocarbamol"
+      },
+      {
+        "id": "brand_to_generic-mc-114",
+        "question": "What is the generic for Norflex?",
+        "options": [
+          "enzalutamide",
+          "orphenadrine",
+          "glyburide",
+          "vancomycin"
+        ],
+        "answer": "orphenadrine"
+      },
+      {
+        "id": "brand_to_generic-mc-115",
+        "question": "What is the generic for Lasix?",
+        "options": [
+          "metronidazole",
+          "levetiracetam",
+          "pioglitazone",
+          "furosemide"
+        ],
+        "answer": "furosemide"
+      },
+      {
+        "id": "brand_to_generic-mc-116",
+        "question": "What is the generic for Microzide?",
+        "options": [
+          "atorvastatin",
+          "dulaglutide",
+          "hydrochlorothiazide",
+          "aripiprazole"
+        ],
+        "answer": "hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-117",
+        "question": "What is the generic for Aldactone?",
+        "options": [
+          "spironolactone",
+          "dexmethylphenidate",
+          "beclomethasone",
+          "empagliflozin"
+        ],
+        "answer": "spironolactone"
+      },
+      {
+        "id": "brand_to_generic-mc-118",
+        "question": "What is the generic for Dyazide?",
+        "options": [
+          "ipratropium/albuterol",
+          "triamterene/hydrochlorothiazide",
+          "enalapril",
+          "insulin detemir"
+        ],
+        "answer": "triamterene/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-119",
+        "question": "What is the generic for Bumex?",
+        "options": [
+          "amphetamine/dextroamphetamine",
+          "nebivolol",
+          "olanzapine",
+          "bumetanide"
+        ],
+        "answer": "bumetanide"
+      },
+      {
+        "id": "brand_to_generic-mc-120",
+        "question": "What is the generic for Demadex?",
+        "options": [
+          "metolazone",
+          "desloratadine",
+          "timolol",
+          "torsemide"
+        ],
+        "answer": "torsemide"
+      },
+      {
+        "id": "brand_to_generic-mc-121",
+        "question": "What is the generic for Zaroxolyn?",
+        "options": [
+          "fluticasone",
+          "ramipril",
+          "metolazone",
+          "atorvastatin"
+        ],
+        "answer": "metolazone"
+      },
+      {
+        "id": "brand_to_generic-mc-122",
+        "question": "What is the generic for Prinivil?",
+        "options": [
+          "empagliflozin",
+          "ledipasvir/sofosbuvir",
+          "sumatriptan",
+          "lisinopril"
+        ],
+        "answer": "lisinopril"
+      },
+      {
+        "id": "brand_to_generic-mc-123",
+        "question": "What is the generic for Cozaar?",
+        "options": [
+          "cephalexin",
+          "losartan",
+          "carvedilol",
+          "azelastine nasal"
+        ],
+        "answer": "losartan"
+      },
+      {
+        "id": "brand_to_generic-mc-124",
+        "question": "What is the generic for Diovan?",
+        "options": [
+          "enzalutamide",
+          "valsartan",
+          "dapagliflozin/metformin",
+          "simvastatin"
+        ],
+        "answer": "valsartan"
+      },
+      {
+        "id": "brand_to_generic-mc-125",
+        "question": "What is the generic for Benicar?",
+        "options": [
+          "olmesartan",
+          "ipratropium/albuterol",
+          "bumetanide",
+          "metformin"
+        ],
+        "answer": "olmesartan"
+      },
+      {
+        "id": "brand_to_generic-mc-126",
+        "question": "What is the generic for Altace?",
+        "options": [
+          "umeclidinium",
+          "ramipril",
+          "canagliflozin",
+          "fluticasone/salmeterol"
+        ],
+        "answer": "ramipril"
+      },
+      {
+        "id": "brand_to_generic-mc-127",
+        "question": "What is the generic for Lotensin?",
+        "options": [
+          "teriparatide",
+          "infliximab",
+          "semaglutide",
+          "benazepril"
+        ],
+        "answer": "benazepril"
+      },
+      {
+        "id": "brand_to_generic-mc-128",
+        "question": "What is the generic for Vasotec?",
+        "options": [
+          "dexmethylphenidate",
+          "insulin glargine",
+          "valsartan",
+          "enalapril"
+        ],
+        "answer": "enalapril"
+      },
+      {
+        "id": "brand_to_generic-mc-129",
+        "question": "What is the generic for Norvasc?",
+        "options": [
+          "desloratadine",
+          "aclidinium",
+          "amlodipine",
+          "metoprolol tartrate"
+        ],
+        "answer": "amlodipine"
+      },
+      {
+        "id": "brand_to_generic-mc-130",
+        "question": "What is the generic for Lopressor?",
+        "options": [
+          "metoprolol tartrate",
+          "lisinopril/hydrochlorothiazide",
+          "liraglutide",
+          "insulin lispro"
+        ],
+        "answer": "metoprolol tartrate"
+      },
+      {
+        "id": "brand_to_generic-mc-131",
+        "question": "What is the generic for Toprol XL?",
+        "options": [
+          "metoprolol succinate",
+          "semaglutide",
+          "glimepiride",
+          "secukinumab"
+        ],
+        "answer": "metoprolol succinate"
+      },
+      {
+        "id": "brand_to_generic-mc-132",
+        "question": "What is the generic for Tenormin?",
+        "options": [
+          "palbociclib",
+          "atenolol",
+          "metronidazole",
+          "lamotrigine"
+        ],
+        "answer": "atenolol"
+      },
+      {
+        "id": "brand_to_generic-mc-133",
+        "question": "What is the generic for Coreg?",
+        "options": [
+          "aclidinium",
+          "clobetasol",
+          "insulin NPH",
+          "carvedilol"
+        ],
+        "answer": "carvedilol"
+      },
+      {
+        "id": "brand_to_generic-mc-134",
+        "question": "What is the generic for Inderal?",
+        "options": [
+          "dorzolamide/timolol",
+          "nitrofurantoin",
+          "trastuzumab",
+          "propranolol"
+        ],
+        "answer": "propranolol"
+      },
+      {
+        "id": "brand_to_generic-mc-135",
+        "question": "What is the generic for Bystolic?",
+        "options": [
+          "nebivolol",
+          "sitagliptin",
+          "teriparatide",
+          "acyclovir"
+        ],
+        "answer": "nebivolol"
+      },
+      {
+        "id": "brand_to_generic-mc-136",
+        "question": "What is the generic for Hydralazine?",
+        "options": [
+          "hydralazine",
+          "budesonide/formoterol",
+          "colesevelam",
+          "duloxetine"
+        ],
+        "answer": "hydralazine"
+      },
+      {
+        "id": "brand_to_generic-mc-137",
+        "question": "What is the generic for Catapres?",
+        "options": [
+          "aripiprazole",
+          "clonidine",
+          "dabigatran",
+          "insulin detemir"
+        ],
+        "answer": "clonidine"
+      },
+      {
+        "id": "brand_to_generic-mc-138",
+        "question": "What is the generic for Benicar HCT?",
+        "options": [
+          "cetirizine",
+          "olmesartan/hydrochlorothiazide",
+          "felodipine",
+          "escitalopram"
+        ],
+        "answer": "olmesartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-139",
+        "question": "What is the generic for Diovan HCT?",
+        "options": [
+          "valsartan/hydrochlorothiazide",
+          "etanercept",
+          "losartan",
+          "warfarin"
+        ],
+        "answer": "valsartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-140",
+        "question": "What is the generic for Zestoretic?",
+        "options": [
+          "leuprolide",
+          "timolol",
+          "lisinopril/hydrochlorothiazide",
+          "nitrofurantoin"
+        ],
+        "answer": "lisinopril/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-141",
+        "question": "What is the generic for Hyzaar?",
+        "options": [
+          "fluconazole",
+          "cefdinir",
+          "losartan/hydrochlorothiazide",
+          "budesonide"
+        ],
+        "answer": "losartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-mc-142",
+        "question": "What is the generic for Calan?",
+        "options": [
+          "risedronate",
+          "azelastine nasal",
+          "verapamil",
+          "conjugated estrogens"
+        ],
+        "answer": "verapamil"
+      },
+      {
+        "id": "brand_to_generic-mc-143",
+        "question": "What is the generic for Cardizem?",
+        "options": [
+          "hydralazine",
+          "dapagliflozin",
+          "diltiazem",
+          "cephalexin"
+        ],
+        "answer": "diltiazem"
+      },
+      {
+        "id": "brand_to_generic-mc-144",
+        "question": "What is the generic for Plendil?",
+        "options": [
+          "secukinumab",
+          "azithromycin",
+          "felodipine",
+          "cyclosporine ophthalmic"
+        ],
+        "answer": "felodipine"
+      },
+      {
+        "id": "brand_to_generic-mc-145",
+        "question": "What is the generic for Adalat CC?",
+        "options": [
+          "imatinib",
+          "nifedipine",
+          "dabigatran",
+          "lisdexamfetamine"
+        ],
+        "answer": "nifedipine"
+      },
+      {
+        "id": "brand_to_generic-mc-146",
+        "question": "What is the generic for Lotrel?",
+        "options": [
+          "aclidinium",
+          "insulin NPH/regular",
+          "enalapril",
+          "amlodipine/benazepril"
+        ],
+        "answer": "amlodipine/benazepril"
+      },
+      {
+        "id": "brand_to_generic-mc-147",
+        "question": "What is the generic for Caduet?",
+        "options": [
+          "insulin glargine",
+          "amlodipine/atorvastatin",
+          "enzalutamide",
+          "emtricitabine/tenofovir disoproxil"
+        ],
+        "answer": "amlodipine/atorvastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-148",
+        "question": "What is the generic for Lipitor?",
+        "options": [
+          "canagliflozin",
+          "atorvastatin",
+          "secukinumab",
+          "furosemide"
+        ],
+        "answer": "atorvastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-149",
+        "question": "What is the generic for Zocor?",
+        "options": [
+          "insulin lispro",
+          "trastuzumab",
+          "clonidine",
+          "simvastatin"
+        ],
+        "answer": "simvastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-150",
+        "question": "What is the generic for Pravachol?",
+        "options": [
+          "sumatriptan",
+          "pravastatin",
+          "carvedilol",
+          "exenatide ER"
+        ],
+        "answer": "pravastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-151",
+        "question": "What is the generic for Mevacor?",
+        "options": [
+          "hydrochlorothiazide",
+          "lovastatin",
+          "insulin glargine",
+          "vancomycin"
+        ],
+        "answer": "lovastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-152",
+        "question": "What is the generic for Livalo?",
+        "options": [
+          "celecoxib",
+          "insulin detemir",
+          "pitavastatin",
+          "sumatriptan"
+        ],
+        "answer": "pitavastatin"
+      },
+      {
+        "id": "brand_to_generic-mc-153",
+        "question": "What is the generic for Welchol?",
+        "options": [
+          "colesevelam",
+          "risperidone",
+          "glipizide",
+          "dorzolamide/timolol"
+        ],
+        "answer": "colesevelam"
+      },
+      {
+        "id": "brand_to_generic-mc-154",
+        "question": "What is the generic for Tricor?",
+        "options": [
+          "sofosbuvir",
+          "enalapril",
+          "fluticasone/salmeterol",
+          "fenofibrate"
+        ],
+        "answer": "fenofibrate"
+      },
+      {
+        "id": "brand_to_generic-mc-155",
+        "question": "What is the generic for Lopid?",
+        "options": [
+          "cefuroxime",
+          "gemfibrozil",
+          "pioglitazone",
+          "levofloxacin"
+        ],
+        "answer": "gemfibrozil"
+      },
+      {
+        "id": "brand_to_generic-mc-156",
+        "question": "What is the generic for Niaspan?",
+        "options": [
+          "triamcinolone",
+          "amoxicillin/clavulanate",
+          "niacin ER",
+          "ticagrelor"
+        ],
+        "answer": "niacin ER"
+      },
+      {
+        "id": "brand_to_generic-mc-157",
+        "question": "What is the generic for Vascepa?",
+        "options": [
+          "enzalutamide",
+          "insulin NPH",
+          "icosapent ethyl",
+          "levocetirizine"
+        ],
+        "answer": "icosapent ethyl"
+      },
+      {
+        "id": "brand_to_generic-mc-158",
+        "question": "What is the generic for Lovaza?",
+        "options": [
+          "carisoprodol",
+          "valsartan",
+          "cefuroxime",
+          "omega-3 acid ethyl esters"
+        ],
+        "answer": "omega-3 acid ethyl esters"
+      },
+      {
+        "id": "brand_to_generic-mc-159",
+        "question": "What is the generic for Jardiance?",
+        "options": [
+          "leuprolide",
+          "memantine",
+          "esomeprazole",
+          "empagliflozin"
+        ],
+        "answer": "empagliflozin"
+      },
+      {
+        "id": "brand_to_generic-mc-160",
+        "question": "What is the generic for Invokana?",
+        "options": [
+          "carvedilol",
+          "canagliflozin",
+          "icosapent ethyl",
+          "apixaban"
+        ],
+        "answer": "canagliflozin"
+      },
+      {
+        "id": "brand_to_generic-mc-161",
+        "question": "What is the generic for Farxiga?",
+        "options": [
+          "simvastatin",
+          "dapagliflozin",
+          "metoprolol tartrate",
+          "ticagrelor"
+        ],
+        "answer": "dapagliflozin"
+      },
+      {
+        "id": "brand_to_generic-mc-162",
+        "question": "What is the generic for Glucophage?",
+        "options": [
+          "lisdexamfetamine",
+          "fluoxetine",
+          "desvenlafaxine",
+          "metformin"
+        ],
+        "answer": "metformin"
+      },
+      {
+        "id": "brand_to_generic-mc-163",
+        "question": "What is the generic for Victoza?",
+        "options": [
+          "liraglutide",
+          "colesevelam",
+          "montelukast",
+          "famotidine"
+        ],
+        "answer": "liraglutide"
+      },
+      {
+        "id": "brand_to_generic-mc-164",
+        "question": "What is the generic for Bydureon?",
+        "options": [
+          "sitagliptin",
+          "amlodipine",
+          "exenatide ER",
+          "dorzolamide/timolol"
+        ],
+        "answer": "exenatide ER"
+      },
+      {
+        "id": "brand_to_generic-mc-165",
+        "question": "What is the generic for Trulicity?",
+        "options": [
+          "oxycodone ER",
+          "dulaglutide",
+          "mometasone",
+          "celecoxib"
+        ],
+        "answer": "dulaglutide"
+      },
+      {
+        "id": "brand_to_generic-mc-166",
+        "question": "What is the generic for Ozempic?",
+        "options": [
+          "tizanidine",
+          "semaglutide",
+          "palbociclib",
+          "tiotropium"
+        ],
+        "answer": "semaglutide"
+      },
+      {
+        "id": "brand_to_generic-mc-167",
+        "question": "What is the generic for Basaglar?",
+        "options": [
+          "insulin glargine",
+          "cyclobenzaprine",
+          "insulin NPH",
+          "atorvastatin"
+        ],
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-mc-168",
+        "question": "What is the generic for Toujeo?",
+        "options": [
+          "desvenlafaxine",
+          "torsemide",
+          "sulfamethoxazole/trimethoprim",
+          "insulin glargine"
+        ],
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-mc-169",
+        "question": "What is the generic for Tresiba?",
+        "options": [
+          "ciprofloxacin",
+          "apixaban",
+          "insulin degludec",
+          "travoprost"
+        ],
+        "answer": "insulin degludec"
+      },
+      {
+        "id": "brand_to_generic-mc-170",
+        "question": "What is the generic for Humulin N?",
+        "options": [
+          "etanercept",
+          "tofacitinib",
+          "insulin NPH",
+          "tadalafil"
+        ],
+        "answer": "insulin NPH"
+      },
+      {
+        "id": "brand_to_generic-mc-171",
+        "question": "What is the generic for Humulin R?",
+        "options": [
+          "insulin glargine",
+          "doxycycline hyclate",
+          "desloratadine",
+          "regular insulin"
+        ],
+        "answer": "regular insulin"
+      },
+      {
+        "id": "brand_to_generic-mc-172",
+        "question": "What is the generic for Humulin 70/30?",
+        "options": [
+          "benazepril",
+          "gemfibrozil",
+          "insulin NPH/regular",
+          "nifedipine"
+        ],
+        "answer": "insulin NPH/regular"
+      },
+      {
+        "id": "brand_to_generic-mc-173",
+        "question": "What is the generic for Glucotrol?",
+        "options": [
+          "cephalexin",
+          "fluticasone",
+          "glipizide",
+          "risperidone"
+        ],
+        "answer": "glipizide"
+      },
+      {
+        "id": "brand_to_generic-mc-174",
+        "question": "What is the generic for Amaryl?",
+        "options": [
+          "olanzapine",
+          "glimepiride",
+          "mupirocin",
+          "ibandronate"
+        ],
+        "answer": "glimepiride"
+      },
+      {
+        "id": "brand_to_generic-mc-175",
+        "question": "What is the generic for Diabeta?",
+        "options": [
+          "secukinumab",
+          "olopatadine",
+          "denosumab",
+          "glyburide"
+        ],
+        "answer": "glyburide"
+      },
+      {
+        "id": "brand_to_generic-mc-176",
+        "question": "What is the generic for Actos?",
+        "options": [
+          "azelastine nasal",
+          "exenatide ER",
+          "pioglitazone",
+          "olmesartan"
+        ],
+        "answer": "pioglitazone"
+      },
+      {
+        "id": "brand_to_generic-mc-177",
+        "question": "What is the generic for Janumet?",
+        "options": [
+          "fenofibrate",
+          "sitagliptin/metformin",
+          "clobetasol",
+          "minocycline"
+        ],
+        "answer": "sitagliptin/metformin"
+      },
+      {
+        "id": "brand_to_generic-mc-178",
+        "question": "What is the generic for Xigduo XR?",
+        "options": [
+          "carisoprodol",
+          "dapagliflozin/metformin",
+          "trastuzumab",
+          "ticagrelor"
+        ],
+        "answer": "dapagliflozin/metformin"
+      },
+      {
+        "id": "brand_to_generic-mc-179",
+        "question": "What is the generic for Synjardy?",
+        "options": [
+          "palbociclib",
+          "buprenorphine/naloxone",
+          "carisoprodol",
+          "empagliflozin/metformin"
+        ],
+        "answer": "empagliflozin/metformin"
+      },
+      {
+        "id": "brand_to_generic-mc-180",
+        "question": "What is the generic for Bactroban?",
+        "options": [
+          "nifedipine",
+          "colesevelam",
+          "mupirocin",
+          "torsemide"
+        ],
+        "answer": "mupirocin"
+      },
+      {
+        "id": "brand_to_generic-mc-181",
+        "question": "What is the generic for Kenalog?",
+        "options": [
+          "etanercept",
+          "triamcinolone",
+          "enalapril",
+          "carisoprodol"
+        ],
+        "answer": "triamcinolone"
+      },
+      {
+        "id": "brand_to_generic-mc-182",
+        "question": "What is the generic for Elocon?",
+        "options": [
+          "fluticasone",
+          "mometasone",
+          "ezetimibe",
+          "fluticasone/vilanterol"
+        ],
+        "answer": "mometasone"
+      },
+      {
+        "id": "brand_to_generic-mc-183",
+        "question": "What is the generic for Temovate?",
+        "options": [
+          "clobetasol",
+          "gemfibrozil",
+          "exenatide ER",
+          "metronidazole"
+        ],
+        "answer": "clobetasol"
+      },
+      {
+        "id": "brand_to_generic-mc-184",
+        "question": "What is the generic for Lotrisone?",
+        "options": [
+          "fluticasone nasal",
+          "celecoxib",
+          "ipratropium/albuterol",
+          "clotrimazole/betamethasone"
+        ],
+        "answer": "clotrimazole/betamethasone"
+      },
+      {
+        "id": "brand_to_generic-mc-185",
+        "question": "What is the generic for Retin-A?",
+        "options": [
+          "alendronate",
+          "insulin NPH/regular",
+          "timolol",
+          "tretinoin"
+        ],
+        "answer": "tretinoin"
+      },
+      {
+        "id": "brand_to_generic-mc-186",
+        "question": "What is the generic for Clarinex?",
+        "options": [
+          "oxycodone ER",
+          "insulin aspart",
+          "sitagliptin",
+          "desloratadine"
+        ],
+        "answer": "desloratadine"
+      },
+      {
+        "id": "brand_to_generic-mc-187",
+        "question": "What is the generic for Zyrtec?",
+        "options": [
+          "tofacitinib",
+          "albuterol",
+          "cetirizine",
+          "losartan"
+        ],
+        "answer": "cetirizine"
+      },
+      {
+        "id": "brand_to_generic-mc-188",
+        "question": "What is the generic for Xyzal?",
+        "options": [
+          "ipratropium/albuterol",
+          "tiotropium",
+          "levocetirizine",
+          "clobetasol"
+        ],
+        "answer": "levocetirizine"
+      },
+      {
+        "id": "brand_to_generic-mc-189",
+        "question": "What is the generic for Allegra?",
+        "options": [
+          "tiotropium",
+          "fexofenadine",
+          "levothyroxine",
+          "escitalopram"
+        ],
+        "answer": "fexofenadine"
+      },
+      {
+        "id": "brand_to_generic-mc-190",
+        "question": "What is the generic for Claritin?",
+        "options": [
+          "brimonidine",
+          "loratadine",
+          "cefuroxime",
+          "duloxetine"
+        ],
+        "answer": "loratadine"
+      },
+      {
+        "id": "brand_to_generic-mc-191",
+        "question": "What is the generic for Flonase?",
+        "options": [
+          "fluticasone nasal",
+          "pitavastatin",
+          "apixaban",
+          "leuprolide"
+        ],
+        "answer": "fluticasone nasal"
+      },
+      {
+        "id": "brand_to_generic-mc-192",
+        "question": "What is the generic for Astelin?",
+        "options": [
+          "losartan",
+          "insulin degludec",
+          "sertraline",
+          "azelastine nasal"
+        ],
+        "answer": "azelastine nasal"
+      },
+      {
+        "id": "brand_to_generic-mc-193",
+        "question": "What is the generic for Pataday?",
+        "options": [
+          "trastuzumab",
+          "tretinoin",
+          "cephalexin",
+          "olopatadine"
+        ],
+        "answer": "olopatadine"
+      },
+      {
+        "id": "brand_to_generic-mc-194",
+        "question": "What is the generic for Restasis?",
+        "options": [
+          "metformin",
+          "cyclosporine ophthalmic",
+          "insulin aspart",
+          "orphenadrine"
+        ],
+        "answer": "cyclosporine ophthalmic"
+      },
+      {
+        "id": "brand_to_generic-mc-195",
+        "question": "What is the generic for Xalatan?",
+        "options": [
+          "latanoprost",
+          "methocarbamol",
+          "lidocaine",
+          "insulin glargine"
+        ],
+        "answer": "latanoprost"
+      },
+      {
+        "id": "brand_to_generic-mc-196",
+        "question": "What is the generic for Travatan Z?",
+        "options": [
+          "apixaban",
+          "travoprost",
+          "sumatriptan",
+          "insulin detemir"
+        ],
+        "answer": "travoprost"
+      },
+      {
+        "id": "brand_to_generic-mc-197",
+        "question": "What is the generic for Cosopt?",
+        "options": [
+          "levothyroxine",
+          "dorzolamide/timolol",
+          "ciprofloxacin",
+          "fluticasone nasal"
+        ],
+        "answer": "dorzolamide/timolol"
+      },
+      {
+        "id": "brand_to_generic-mc-198",
+        "question": "What is the generic for Timoptic?",
+        "options": [
+          "doxycycline hyclate",
+          "timolol",
+          "oxycodone ER",
+          "ipratropium/albuterol"
+        ],
+        "answer": "timolol"
+      },
+      {
+        "id": "brand_to_generic-mc-199",
+        "question": "What is the generic for Alphagan P?",
+        "options": [
+          "cefuroxime",
+          "mupirocin",
+          "secukinumab",
+          "brimonidine"
+        ],
+        "answer": "brimonidine"
+      },
+      {
+        "id": "brand_to_generic-mc-200",
+        "question": "What is the generic for Pepcid?",
+        "options": [
+          "insulin degludec",
+          "famotidine",
+          "esomeprazole",
+          "lamotrigine"
+        ],
+        "answer": "famotidine"
+      }
+    ],
+    "fill_in_the_blank": [
+      {
+        "id": "brand_to_generic-fib-1",
+        "question": "Synthroid → ________ (generic)",
+        "answer": "levothyroxine"
+      },
+      {
+        "id": "brand_to_generic-fib-2",
+        "question": "Crestor → ________ (generic)",
+        "answer": "rosuvastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-3",
+        "question": "Ventolin HFA → ________ (generic)",
+        "answer": "albuterol"
+      },
+      {
+        "id": "brand_to_generic-fib-4",
+        "question": "Nexium → ________ (generic)",
+        "answer": "esomeprazole"
+      },
+      {
+        "id": "brand_to_generic-fib-5",
+        "question": "Advair Diskus → ________ (generic)",
+        "answer": "fluticasone/salmeterol"
+      },
+      {
+        "id": "brand_to_generic-fib-6",
+        "question": "Lantus Solostar → ________ (generic)",
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-fib-7",
+        "question": "Vyvanse → ________ (generic)",
+        "answer": "lisdexamfetamine"
+      },
+      {
+        "id": "brand_to_generic-fib-8",
+        "question": "Lyrica → ________ (generic)",
+        "answer": "pregabalin"
+      },
+      {
+        "id": "brand_to_generic-fib-9",
+        "question": "Spiriva Handihaler → ________ (generic)",
+        "answer": "tiotropium"
+      },
+      {
+        "id": "brand_to_generic-fib-10",
+        "question": "Januvia → ________ (generic)",
+        "answer": "sitagliptin"
+      },
+      {
+        "id": "brand_to_generic-fib-11",
+        "question": "Namenda → ________ (generic)",
+        "answer": "memantine"
+      },
+      {
+        "id": "brand_to_generic-fib-12",
+        "question": "Symbicort → ________ (generic)",
+        "answer": "budesonide/formoterol"
+      },
+      {
+        "id": "brand_to_generic-fib-13",
+        "question": "Cialis → ________ (generic)",
+        "answer": "tadalafil"
+      },
+      {
+        "id": "brand_to_generic-fib-14",
+        "question": "Suboxone → ________ (generic)",
+        "answer": "buprenorphine/naloxone"
+      },
+      {
+        "id": "brand_to_generic-fib-15",
+        "question": "OxyContin → ________ (generic)",
+        "answer": "oxycodone ER"
+      },
+      {
+        "id": "brand_to_generic-fib-16",
+        "question": "Truvada → ________ (generic)",
+        "answer": "emtricitabine/tenofovir disoproxil"
+      },
+      {
+        "id": "brand_to_generic-fib-17",
+        "question": "Celebrex → ________ (generic)",
+        "answer": "celecoxib"
+      },
+      {
+        "id": "brand_to_generic-fib-18",
+        "question": "Xarelto → ________ (generic)",
+        "answer": "rivaroxaban"
+      },
+      {
+        "id": "brand_to_generic-fib-19",
+        "question": "Nasonex → ________ (generic)",
+        "answer": "mometasone"
+      },
+      {
+        "id": "brand_to_generic-fib-20",
+        "question": "Zetia → ________ (generic)",
+        "answer": "ezetimibe"
+      },
+      {
+        "id": "brand_to_generic-fib-21",
+        "question": "Levemir → ________ (generic)",
+        "answer": "insulin detemir"
+      },
+      {
+        "id": "brand_to_generic-fib-22",
+        "question": "Humalog → ________ (generic)",
+        "answer": "insulin lispro"
+      },
+      {
+        "id": "brand_to_generic-fib-23",
+        "question": "Novolog → ________ (generic)",
+        "answer": "insulin aspart"
+      },
+      {
+        "id": "brand_to_generic-fib-24",
+        "question": "Premarin → ________ (generic)",
+        "answer": "conjugated estrogens"
+      },
+      {
+        "id": "brand_to_generic-fib-25",
+        "question": "Zoloft → ________ (generic)",
+        "answer": "sertraline"
+      },
+      {
+        "id": "brand_to_generic-fib-26",
+        "question": "Prozac → ________ (generic)",
+        "answer": "fluoxetine"
+      },
+      {
+        "id": "brand_to_generic-fib-27",
+        "question": "Lexapro → ________ (generic)",
+        "answer": "escitalopram"
+      },
+      {
+        "id": "brand_to_generic-fib-28",
+        "question": "Cymbalta → ________ (generic)",
+        "answer": "duloxetine"
+      },
+      {
+        "id": "brand_to_generic-fib-29",
+        "question": "Effexor XR → ________ (generic)",
+        "answer": "venlafaxine"
+      },
+      {
+        "id": "brand_to_generic-fib-30",
+        "question": "Pristiq → ________ (generic)",
+        "answer": "desvenlafaxine"
+      },
+      {
+        "id": "brand_to_generic-fib-31",
+        "question": "Abilify → ________ (generic)",
+        "answer": "aripiprazole"
+      },
+      {
+        "id": "brand_to_generic-fib-32",
+        "question": "Seroquel → ________ (generic)",
+        "answer": "quetiapine"
+      },
+      {
+        "id": "brand_to_generic-fib-33",
+        "question": "Zyprexa → ________ (generic)",
+        "answer": "olanzapine"
+      },
+      {
+        "id": "brand_to_generic-fib-34",
+        "question": "Risperdal → ________ (generic)",
+        "answer": "risperidone"
+      },
+      {
+        "id": "brand_to_generic-fib-35",
+        "question": "Concerta → ________ (generic)",
+        "answer": "methylphenidate ER"
+      },
+      {
+        "id": "brand_to_generic-fib-36",
+        "question": "Adderall XR → ________ (generic)",
+        "answer": "amphetamine/dextroamphetamine"
+      },
+      {
+        "id": "brand_to_generic-fib-37",
+        "question": "Strattera → ________ (generic)",
+        "answer": "atomoxetine"
+      },
+      {
+        "id": "brand_to_generic-fib-38",
+        "question": "Focalin XR → ________ (generic)",
+        "answer": "dexmethylphenidate"
+      },
+      {
+        "id": "brand_to_generic-fib-39",
+        "question": "Lamictal → ________ (generic)",
+        "answer": "lamotrigine"
+      },
+      {
+        "id": "brand_to_generic-fib-40",
+        "question": "Topamax → ________ (generic)",
+        "answer": "topiramate"
+      },
+      {
+        "id": "brand_to_generic-fib-41",
+        "question": "Keppra → ________ (generic)",
+        "answer": "levetiracetam"
+      },
+      {
+        "id": "brand_to_generic-fib-42",
+        "question": "Neurontin → ________ (generic)",
+        "answer": "gabapentin"
+      },
+      {
+        "id": "brand_to_generic-fib-43",
+        "question": "Depakote → ________ (generic)",
+        "answer": "divalproex"
+      },
+      {
+        "id": "brand_to_generic-fib-44",
+        "question": "Lidoderm → ________ (generic)",
+        "answer": "lidocaine"
+      },
+      {
+        "id": "brand_to_generic-fib-45",
+        "question": "Imitrex → ________ (generic)",
+        "answer": "sumatriptan"
+      },
+      {
+        "id": "brand_to_generic-fib-46",
+        "question": "Plavix → ________ (generic)",
+        "answer": "clopidogrel"
+      },
+      {
+        "id": "brand_to_generic-fib-47",
+        "question": "Brilinta → ________ (generic)",
+        "answer": "ticagrelor"
+      },
+      {
+        "id": "brand_to_generic-fib-48",
+        "question": "Pradaxa → ________ (generic)",
+        "answer": "dabigatran"
+      },
+      {
+        "id": "brand_to_generic-fib-49",
+        "question": "Eliquis → ________ (generic)",
+        "answer": "apixaban"
+      },
+      {
+        "id": "brand_to_generic-fib-50",
+        "question": "Warfarin → ________ (generic)",
+        "answer": "warfarin"
+      },
+      {
+        "id": "brand_to_generic-fib-51",
+        "question": "Humira → ________ (generic)",
+        "answer": "adalimumab"
+      },
+      {
+        "id": "brand_to_generic-fib-52",
+        "question": "Enbrel → ________ (generic)",
+        "answer": "etanercept"
+      },
+      {
+        "id": "brand_to_generic-fib-53",
+        "question": "Remicade → ________ (generic)",
+        "answer": "infliximab"
+      },
+      {
+        "id": "brand_to_generic-fib-54",
+        "question": "Stelara → ________ (generic)",
+        "answer": "ustekinumab"
+      },
+      {
+        "id": "brand_to_generic-fib-55",
+        "question": "Xeljanz → ________ (generic)",
+        "answer": "tofacitinib"
+      },
+      {
+        "id": "brand_to_generic-fib-56",
+        "question": "Cosentyx → ________ (generic)",
+        "answer": "secukinumab"
+      },
+      {
+        "id": "brand_to_generic-fib-57",
+        "question": "Harvoni → ________ (generic)",
+        "answer": "ledipasvir/sofosbuvir"
+      },
+      {
+        "id": "brand_to_generic-fib-58",
+        "question": "Epclusa → ________ (generic)",
+        "answer": "sofosbuvir/velpatasvir"
+      },
+      {
+        "id": "brand_to_generic-fib-59",
+        "question": "Sovaldi → ________ (generic)",
+        "answer": "sofosbuvir"
+      },
+      {
+        "id": "brand_to_generic-fib-60",
+        "question": "Keytruda → ________ (generic)",
+        "answer": "pembrolizumab"
+      },
+      {
+        "id": "brand_to_generic-fib-61",
+        "question": "Opdivo → ________ (generic)",
+        "answer": "nivolumab"
+      },
+      {
+        "id": "brand_to_generic-fib-62",
+        "question": "Herceptin → ________ (generic)",
+        "answer": "trastuzumab"
+      },
+      {
+        "id": "brand_to_generic-fib-63",
+        "question": "Avastin → ________ (generic)",
+        "answer": "bevacizumab"
+      },
+      {
+        "id": "brand_to_generic-fib-64",
+        "question": "Gleevec → ________ (generic)",
+        "answer": "imatinib"
+      },
+      {
+        "id": "brand_to_generic-fib-65",
+        "question": "Revlimid → ________ (generic)",
+        "answer": "lenalidomide"
+      },
+      {
+        "id": "brand_to_generic-fib-66",
+        "question": "Ibrance → ________ (generic)",
+        "answer": "palbociclib"
+      },
+      {
+        "id": "brand_to_generic-fib-67",
+        "question": "Tarceva → ________ (generic)",
+        "answer": "erlotinib"
+      },
+      {
+        "id": "brand_to_generic-fib-68",
+        "question": "Imbruvica → ________ (generic)",
+        "answer": "ibrutinib"
+      },
+      {
+        "id": "brand_to_generic-fib-69",
+        "question": "Prolia → ________ (generic)",
+        "answer": "denosumab"
+      },
+      {
+        "id": "brand_to_generic-fib-70",
+        "question": "Zytiga → ________ (generic)",
+        "answer": "abiraterone"
+      },
+      {
+        "id": "brand_to_generic-fib-71",
+        "question": "Xtandi → ________ (generic)",
+        "answer": "enzalutamide"
+      },
+      {
+        "id": "brand_to_generic-fib-72",
+        "question": "Lupron → ________ (generic)",
+        "answer": "leuprolide"
+      },
+      {
+        "id": "brand_to_generic-fib-73",
+        "question": "Forteo → ________ (generic)",
+        "answer": "teriparatide"
+      },
+      {
+        "id": "brand_to_generic-fib-74",
+        "question": "Actonel → ________ (generic)",
+        "answer": "risedronate"
+      },
+      {
+        "id": "brand_to_generic-fib-75",
+        "question": "Fosamax → ________ (generic)",
+        "answer": "alendronate"
+      },
+      {
+        "id": "brand_to_generic-fib-76",
+        "question": "Evista → ________ (generic)",
+        "answer": "raloxifene"
+      },
+      {
+        "id": "brand_to_generic-fib-77",
+        "question": "Boniva → ________ (generic)",
+        "answer": "ibandronate"
+      },
+      {
+        "id": "brand_to_generic-fib-78",
+        "question": "Xopenex → ________ (generic)",
+        "answer": "levalbuterol"
+      },
+      {
+        "id": "brand_to_generic-fib-79",
+        "question": "Atrovent → ________ (generic)",
+        "answer": "ipratropium"
+      },
+      {
+        "id": "brand_to_generic-fib-80",
+        "question": "Singulair → ________ (generic)",
+        "answer": "montelukast"
+      },
+      {
+        "id": "brand_to_generic-fib-81",
+        "question": "Alvesco → ________ (generic)",
+        "answer": "ciclesonide"
+      },
+      {
+        "id": "brand_to_generic-fib-82",
+        "question": "Pulmicort → ________ (generic)",
+        "answer": "budesonide"
+      },
+      {
+        "id": "brand_to_generic-fib-83",
+        "question": "Flovent → ________ (generic)",
+        "answer": "fluticasone"
+      },
+      {
+        "id": "brand_to_generic-fib-84",
+        "question": "Qvar → ________ (generic)",
+        "answer": "beclomethasone"
+      },
+      {
+        "id": "brand_to_generic-fib-85",
+        "question": "Breo Ellipta → ________ (generic)",
+        "answer": "fluticasone/vilanterol"
+      },
+      {
+        "id": "brand_to_generic-fib-86",
+        "question": "Anoro Ellipta → ________ (generic)",
+        "answer": "umeclidinium/vilanterol"
+      },
+      {
+        "id": "brand_to_generic-fib-87",
+        "question": "Incruse Ellipta → ________ (generic)",
+        "answer": "umeclidinium"
+      },
+      {
+        "id": "brand_to_generic-fib-88",
+        "question": "Tudorza Pressair → ________ (generic)",
+        "answer": "aclidinium"
+      },
+      {
+        "id": "brand_to_generic-fib-89",
+        "question": "DuoNeb → ________ (generic)",
+        "answer": "ipratropium/albuterol"
+      },
+      {
+        "id": "brand_to_generic-fib-90",
+        "question": "Combivent Respimat → ________ (generic)",
+        "answer": "ipratropium/albuterol"
+      },
+      {
+        "id": "brand_to_generic-fib-91",
+        "question": "Zithromax → ________ (generic)",
+        "answer": "azithromycin"
+      },
+      {
+        "id": "brand_to_generic-fib-92",
+        "question": "Amoxil → ________ (generic)",
+        "answer": "amoxicillin"
+      },
+      {
+        "id": "brand_to_generic-fib-93",
+        "question": "Augmentin → ________ (generic)",
+        "answer": "amoxicillin/clavulanate"
+      },
+      {
+        "id": "brand_to_generic-fib-94",
+        "question": "Keflex → ________ (generic)",
+        "answer": "cephalexin"
+      },
+      {
+        "id": "brand_to_generic-fib-95",
+        "question": "Omnicef → ________ (generic)",
+        "answer": "cefdinir"
+      },
+      {
+        "id": "brand_to_generic-fib-96",
+        "question": "Ceftin → ________ (generic)",
+        "answer": "cefuroxime"
+      },
+      {
+        "id": "brand_to_generic-fib-97",
+        "question": "Levaquin → ________ (generic)",
+        "answer": "levofloxacin"
+      },
+      {
+        "id": "brand_to_generic-fib-98",
+        "question": "Cipro → ________ (generic)",
+        "answer": "ciprofloxacin"
+      },
+      {
+        "id": "brand_to_generic-fib-99",
+        "question": "Bactrim → ________ (generic)",
+        "answer": "sulfamethoxazole/trimethoprim"
+      },
+      {
+        "id": "brand_to_generic-fib-100",
+        "question": "Macrobid → ________ (generic)",
+        "answer": "nitrofurantoin"
+      },
+      {
+        "id": "brand_to_generic-fib-101",
+        "question": "Doxycycline → ________ (generic)",
+        "answer": "doxycycline hyclate"
+      },
+      {
+        "id": "brand_to_generic-fib-102",
+        "question": "Minocin → ________ (generic)",
+        "answer": "minocycline"
+      },
+      {
+        "id": "brand_to_generic-fib-103",
+        "question": "Flagyl → ________ (generic)",
+        "answer": "metronidazole"
+      },
+      {
+        "id": "brand_to_generic-fib-104",
+        "question": "Cleocin → ________ (generic)",
+        "answer": "clindamycin"
+      },
+      {
+        "id": "brand_to_generic-fib-105",
+        "question": "Diflucan → ________ (generic)",
+        "answer": "fluconazole"
+      },
+      {
+        "id": "brand_to_generic-fib-106",
+        "question": "Vancocin → ________ (generic)",
+        "answer": "vancomycin"
+      },
+      {
+        "id": "brand_to_generic-fib-107",
+        "question": "Zovirax → ________ (generic)",
+        "answer": "acyclovir"
+      },
+      {
+        "id": "brand_to_generic-fib-108",
+        "question": "Valtrex → ________ (generic)",
+        "answer": "valacyclovir"
+      },
+      {
+        "id": "brand_to_generic-fib-109",
+        "question": "Lioresal → ________ (generic)",
+        "answer": "baclofen"
+      },
+      {
+        "id": "brand_to_generic-fib-110",
+        "question": "Zanaflex → ________ (generic)",
+        "answer": "tizanidine"
+      },
+      {
+        "id": "brand_to_generic-fib-111",
+        "question": "Flexeril → ________ (generic)",
+        "answer": "cyclobenzaprine"
+      },
+      {
+        "id": "brand_to_generic-fib-112",
+        "question": "Soma → ________ (generic)",
+        "answer": "carisoprodol"
+      },
+      {
+        "id": "brand_to_generic-fib-113",
+        "question": "Robaxin → ________ (generic)",
+        "answer": "methocarbamol"
+      },
+      {
+        "id": "brand_to_generic-fib-114",
+        "question": "Norflex → ________ (generic)",
+        "answer": "orphenadrine"
+      },
+      {
+        "id": "brand_to_generic-fib-115",
+        "question": "Lasix → ________ (generic)",
+        "answer": "furosemide"
+      },
+      {
+        "id": "brand_to_generic-fib-116",
+        "question": "Microzide → ________ (generic)",
+        "answer": "hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-117",
+        "question": "Aldactone → ________ (generic)",
+        "answer": "spironolactone"
+      },
+      {
+        "id": "brand_to_generic-fib-118",
+        "question": "Dyazide → ________ (generic)",
+        "answer": "triamterene/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-119",
+        "question": "Bumex → ________ (generic)",
+        "answer": "bumetanide"
+      },
+      {
+        "id": "brand_to_generic-fib-120",
+        "question": "Demadex → ________ (generic)",
+        "answer": "torsemide"
+      },
+      {
+        "id": "brand_to_generic-fib-121",
+        "question": "Zaroxolyn → ________ (generic)",
+        "answer": "metolazone"
+      },
+      {
+        "id": "brand_to_generic-fib-122",
+        "question": "Prinivil → ________ (generic)",
+        "answer": "lisinopril"
+      },
+      {
+        "id": "brand_to_generic-fib-123",
+        "question": "Cozaar → ________ (generic)",
+        "answer": "losartan"
+      },
+      {
+        "id": "brand_to_generic-fib-124",
+        "question": "Diovan → ________ (generic)",
+        "answer": "valsartan"
+      },
+      {
+        "id": "brand_to_generic-fib-125",
+        "question": "Benicar → ________ (generic)",
+        "answer": "olmesartan"
+      },
+      {
+        "id": "brand_to_generic-fib-126",
+        "question": "Altace → ________ (generic)",
+        "answer": "ramipril"
+      },
+      {
+        "id": "brand_to_generic-fib-127",
+        "question": "Lotensin → ________ (generic)",
+        "answer": "benazepril"
+      },
+      {
+        "id": "brand_to_generic-fib-128",
+        "question": "Vasotec → ________ (generic)",
+        "answer": "enalapril"
+      },
+      {
+        "id": "brand_to_generic-fib-129",
+        "question": "Norvasc → ________ (generic)",
+        "answer": "amlodipine"
+      },
+      {
+        "id": "brand_to_generic-fib-130",
+        "question": "Lopressor → ________ (generic)",
+        "answer": "metoprolol tartrate"
+      },
+      {
+        "id": "brand_to_generic-fib-131",
+        "question": "Toprol XL → ________ (generic)",
+        "answer": "metoprolol succinate"
+      },
+      {
+        "id": "brand_to_generic-fib-132",
+        "question": "Tenormin → ________ (generic)",
+        "answer": "atenolol"
+      },
+      {
+        "id": "brand_to_generic-fib-133",
+        "question": "Coreg → ________ (generic)",
+        "answer": "carvedilol"
+      },
+      {
+        "id": "brand_to_generic-fib-134",
+        "question": "Inderal → ________ (generic)",
+        "answer": "propranolol"
+      },
+      {
+        "id": "brand_to_generic-fib-135",
+        "question": "Bystolic → ________ (generic)",
+        "answer": "nebivolol"
+      },
+      {
+        "id": "brand_to_generic-fib-136",
+        "question": "Hydralazine → ________ (generic)",
+        "answer": "hydralazine"
+      },
+      {
+        "id": "brand_to_generic-fib-137",
+        "question": "Catapres → ________ (generic)",
+        "answer": "clonidine"
+      },
+      {
+        "id": "brand_to_generic-fib-138",
+        "question": "Benicar HCT → ________ (generic)",
+        "answer": "olmesartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-139",
+        "question": "Diovan HCT → ________ (generic)",
+        "answer": "valsartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-140",
+        "question": "Zestoretic → ________ (generic)",
+        "answer": "lisinopril/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-141",
+        "question": "Hyzaar → ________ (generic)",
+        "answer": "losartan/hydrochlorothiazide"
+      },
+      {
+        "id": "brand_to_generic-fib-142",
+        "question": "Calan → ________ (generic)",
+        "answer": "verapamil"
+      },
+      {
+        "id": "brand_to_generic-fib-143",
+        "question": "Cardizem → ________ (generic)",
+        "answer": "diltiazem"
+      },
+      {
+        "id": "brand_to_generic-fib-144",
+        "question": "Plendil → ________ (generic)",
+        "answer": "felodipine"
+      },
+      {
+        "id": "brand_to_generic-fib-145",
+        "question": "Adalat CC → ________ (generic)",
+        "answer": "nifedipine"
+      },
+      {
+        "id": "brand_to_generic-fib-146",
+        "question": "Lotrel → ________ (generic)",
+        "answer": "amlodipine/benazepril"
+      },
+      {
+        "id": "brand_to_generic-fib-147",
+        "question": "Caduet → ________ (generic)",
+        "answer": "amlodipine/atorvastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-148",
+        "question": "Lipitor → ________ (generic)",
+        "answer": "atorvastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-149",
+        "question": "Zocor → ________ (generic)",
+        "answer": "simvastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-150",
+        "question": "Pravachol → ________ (generic)",
+        "answer": "pravastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-151",
+        "question": "Mevacor → ________ (generic)",
+        "answer": "lovastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-152",
+        "question": "Livalo → ________ (generic)",
+        "answer": "pitavastatin"
+      },
+      {
+        "id": "brand_to_generic-fib-153",
+        "question": "Welchol → ________ (generic)",
+        "answer": "colesevelam"
+      },
+      {
+        "id": "brand_to_generic-fib-154",
+        "question": "Tricor → ________ (generic)",
+        "answer": "fenofibrate"
+      },
+      {
+        "id": "brand_to_generic-fib-155",
+        "question": "Lopid → ________ (generic)",
+        "answer": "gemfibrozil"
+      },
+      {
+        "id": "brand_to_generic-fib-156",
+        "question": "Niaspan → ________ (generic)",
+        "answer": "niacin ER"
+      },
+      {
+        "id": "brand_to_generic-fib-157",
+        "question": "Vascepa → ________ (generic)",
+        "answer": "icosapent ethyl"
+      },
+      {
+        "id": "brand_to_generic-fib-158",
+        "question": "Lovaza → ________ (generic)",
+        "answer": "omega-3 acid ethyl esters"
+      },
+      {
+        "id": "brand_to_generic-fib-159",
+        "question": "Jardiance → ________ (generic)",
+        "answer": "empagliflozin"
+      },
+      {
+        "id": "brand_to_generic-fib-160",
+        "question": "Invokana → ________ (generic)",
+        "answer": "canagliflozin"
+      },
+      {
+        "id": "brand_to_generic-fib-161",
+        "question": "Farxiga → ________ (generic)",
+        "answer": "dapagliflozin"
+      },
+      {
+        "id": "brand_to_generic-fib-162",
+        "question": "Glucophage → ________ (generic)",
+        "answer": "metformin"
+      },
+      {
+        "id": "brand_to_generic-fib-163",
+        "question": "Victoza → ________ (generic)",
+        "answer": "liraglutide"
+      },
+      {
+        "id": "brand_to_generic-fib-164",
+        "question": "Bydureon → ________ (generic)",
+        "answer": "exenatide ER"
+      },
+      {
+        "id": "brand_to_generic-fib-165",
+        "question": "Trulicity → ________ (generic)",
+        "answer": "dulaglutide"
+      },
+      {
+        "id": "brand_to_generic-fib-166",
+        "question": "Ozempic → ________ (generic)",
+        "answer": "semaglutide"
+      },
+      {
+        "id": "brand_to_generic-fib-167",
+        "question": "Basaglar → ________ (generic)",
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-fib-168",
+        "question": "Toujeo → ________ (generic)",
+        "answer": "insulin glargine"
+      },
+      {
+        "id": "brand_to_generic-fib-169",
+        "question": "Tresiba → ________ (generic)",
+        "answer": "insulin degludec"
+      },
+      {
+        "id": "brand_to_generic-fib-170",
+        "question": "Humulin N → ________ (generic)",
+        "answer": "insulin NPH"
+      },
+      {
+        "id": "brand_to_generic-fib-171",
+        "question": "Humulin R → ________ (generic)",
+        "answer": "regular insulin"
+      },
+      {
+        "id": "brand_to_generic-fib-172",
+        "question": "Humulin 70/30 → ________ (generic)",
+        "answer": "insulin NPH/regular"
+      },
+      {
+        "id": "brand_to_generic-fib-173",
+        "question": "Glucotrol → ________ (generic)",
+        "answer": "glipizide"
+      },
+      {
+        "id": "brand_to_generic-fib-174",
+        "question": "Amaryl → ________ (generic)",
+        "answer": "glimepiride"
+      },
+      {
+        "id": "brand_to_generic-fib-175",
+        "question": "Diabeta → ________ (generic)",
+        "answer": "glyburide"
+      },
+      {
+        "id": "brand_to_generic-fib-176",
+        "question": "Actos → ________ (generic)",
+        "answer": "pioglitazone"
+      },
+      {
+        "id": "brand_to_generic-fib-177",
+        "question": "Janumet → ________ (generic)",
+        "answer": "sitagliptin/metformin"
+      },
+      {
+        "id": "brand_to_generic-fib-178",
+        "question": "Xigduo XR → ________ (generic)",
+        "answer": "dapagliflozin/metformin"
+      },
+      {
+        "id": "brand_to_generic-fib-179",
+        "question": "Synjardy → ________ (generic)",
+        "answer": "empagliflozin/metformin"
+      },
+      {
+        "id": "brand_to_generic-fib-180",
+        "question": "Bactroban → ________ (generic)",
+        "answer": "mupirocin"
+      },
+      {
+        "id": "brand_to_generic-fib-181",
+        "question": "Kenalog → ________ (generic)",
+        "answer": "triamcinolone"
+      },
+      {
+        "id": "brand_to_generic-fib-182",
+        "question": "Elocon → ________ (generic)",
+        "answer": "mometasone"
+      },
+      {
+        "id": "brand_to_generic-fib-183",
+        "question": "Temovate → ________ (generic)",
+        "answer": "clobetasol"
+      },
+      {
+        "id": "brand_to_generic-fib-184",
+        "question": "Lotrisone → ________ (generic)",
+        "answer": "clotrimazole/betamethasone"
+      },
+      {
+        "id": "brand_to_generic-fib-185",
+        "question": "Retin-A → ________ (generic)",
+        "answer": "tretinoin"
+      },
+      {
+        "id": "brand_to_generic-fib-186",
+        "question": "Clarinex → ________ (generic)",
+        "answer": "desloratadine"
+      },
+      {
+        "id": "brand_to_generic-fib-187",
+        "question": "Zyrtec → ________ (generic)",
+        "answer": "cetirizine"
+      },
+      {
+        "id": "brand_to_generic-fib-188",
+        "question": "Xyzal → ________ (generic)",
+        "answer": "levocetirizine"
+      },
+      {
+        "id": "brand_to_generic-fib-189",
+        "question": "Allegra → ________ (generic)",
+        "answer": "fexofenadine"
+      },
+      {
+        "id": "brand_to_generic-fib-190",
+        "question": "Claritin → ________ (generic)",
+        "answer": "loratadine"
+      },
+      {
+        "id": "brand_to_generic-fib-191",
+        "question": "Flonase → ________ (generic)",
+        "answer": "fluticasone nasal"
+      },
+      {
+        "id": "brand_to_generic-fib-192",
+        "question": "Astelin → ________ (generic)",
+        "answer": "azelastine nasal"
+      },
+      {
+        "id": "brand_to_generic-fib-193",
+        "question": "Pataday → ________ (generic)",
+        "answer": "olopatadine"
+      },
+      {
+        "id": "brand_to_generic-fib-194",
+        "question": "Restasis → ________ (generic)",
+        "answer": "cyclosporine ophthalmic"
+      },
+      {
+        "id": "brand_to_generic-fib-195",
+        "question": "Xalatan → ________ (generic)",
+        "answer": "latanoprost"
+      },
+      {
+        "id": "brand_to_generic-fib-196",
+        "question": "Travatan Z → ________ (generic)",
+        "answer": "travoprost"
+      },
+      {
+        "id": "brand_to_generic-fib-197",
+        "question": "Cosopt → ________ (generic)",
+        "answer": "dorzolamide/timolol"
+      },
+      {
+        "id": "brand_to_generic-fib-198",
+        "question": "Timoptic → ________ (generic)",
+        "answer": "timolol"
+      },
+      {
+        "id": "brand_to_generic-fib-199",
+        "question": "Alphagan P → ________ (generic)",
+        "answer": "brimonidine"
+      },
+      {
+        "id": "brand_to_generic-fib-200",
+        "question": "Pepcid → ________ (generic)",
+        "answer": "famotidine"
+      }
+    ]
+  },
+  "generic_to_brand": {
+    "multiple_choice": [
+      {
+        "id": "generic_to_brand-mc-1",
+        "question": "What is the brand for levothyroxine?",
+        "options": [
+          "Novolog",
+          "Basaglar",
+          "Plendil",
+          "Synthroid"
+        ],
+        "answer": "Synthroid"
+      },
+      {
+        "id": "generic_to_brand-mc-2",
+        "question": "What is the brand for rosuvastatin?",
+        "options": [
+          "Caduet",
+          "Crestor",
+          "Levaquin",
+          "Cipro"
+        ],
+        "answer": "Crestor"
+      },
+      {
+        "id": "generic_to_brand-mc-3",
+        "question": "What is the brand for albuterol?",
+        "options": [
+          "Cialis",
+          "Lexapro",
+          "Ventolin HFA",
+          "Cleocin"
+        ],
+        "answer": "Ventolin HFA"
+      },
+      {
+        "id": "generic_to_brand-mc-4",
+        "question": "What is the brand for esomeprazole?",
+        "options": [
+          "Zovirax",
+          "Nexium",
+          "Suboxone",
+          "Lexapro"
+        ],
+        "answer": "Nexium"
+      },
+      {
+        "id": "generic_to_brand-mc-5",
+        "question": "What is the brand for fluticasone/salmeterol?",
+        "options": [
+          "Alphagan P",
+          "Advair Diskus",
+          "Warfarin",
+          "Humira"
+        ],
+        "answer": "Advair Diskus"
+      },
+      {
+        "id": "generic_to_brand-mc-6",
+        "question": "What is the brand for insulin glargine?",
+        "options": [
+          "Flagyl",
+          "Trulicity",
+          "Lantus Solostar",
+          "Bumex"
+        ],
+        "answer": "Lantus Solostar"
+      },
+      {
+        "id": "generic_to_brand-mc-7",
+        "question": "What is the brand for lisdexamfetamine?",
+        "options": [
+          "Vyvanse",
+          "Hyzaar",
+          "Tricor",
+          "Pristiq"
+        ],
+        "answer": "Vyvanse"
+      },
+      {
+        "id": "generic_to_brand-mc-8",
+        "question": "What is the brand for pregabalin?",
+        "options": [
+          "Januvia",
+          "Vascepa",
+          "Lyrica",
+          "Gleevec"
+        ],
+        "answer": "Lyrica"
+      },
+      {
+        "id": "generic_to_brand-mc-9",
+        "question": "What is the brand for tiotropium?",
+        "options": [
+          "Spiriva Handihaler",
+          "Premarin",
+          "Livalo",
+          "Bumex"
+        ],
+        "answer": "Spiriva Handihaler"
+      },
+      {
+        "id": "generic_to_brand-mc-10",
+        "question": "What is the brand for sitagliptin?",
+        "options": [
+          "Xyzal",
+          "Qvar",
+          "Catapres",
+          "Januvia"
+        ],
+        "answer": "Januvia"
+      },
+      {
+        "id": "generic_to_brand-mc-11",
+        "question": "What is the brand for memantine?",
+        "options": [
+          "Xigduo XR",
+          "Cleocin",
+          "Zetia",
+          "Namenda"
+        ],
+        "answer": "Namenda"
+      },
+      {
+        "id": "generic_to_brand-mc-12",
+        "question": "What is the brand for budesonide/formoterol?",
+        "options": [
+          "Lovaza",
+          "Travatan Z",
+          "Symbicort",
+          "Anoro Ellipta"
+        ],
+        "answer": "Symbicort"
+      },
+      {
+        "id": "generic_to_brand-mc-13",
+        "question": "What is the brand for tadalafil?",
+        "options": [
+          "Cialis",
+          "Catapres",
+          "Hyzaar",
+          "Lopid"
+        ],
+        "answer": "Cialis"
+      },
+      {
+        "id": "generic_to_brand-mc-14",
+        "question": "What is the brand for buprenorphine/naloxone?",
+        "options": [
+          "Boniva",
+          "Suboxone",
+          "Keflex",
+          "Anoro Ellipta"
+        ],
+        "answer": "Suboxone"
+      },
+      {
+        "id": "generic_to_brand-mc-15",
+        "question": "What is the brand for oxycodone ER?",
+        "options": [
+          "Lupron",
+          "Humulin 70/30",
+          "OxyContin",
+          "Hyzaar"
+        ],
+        "answer": "OxyContin"
+      },
+      {
+        "id": "generic_to_brand-mc-16",
+        "question": "What is the brand for emtricitabine/tenofovir disoproxil?",
+        "options": [
+          "Synthroid",
+          "Truvada",
+          "Xyzal",
+          "Zithromax"
+        ],
+        "answer": "Truvada"
+      },
+      {
+        "id": "generic_to_brand-mc-17",
+        "question": "What is the brand for celecoxib?",
+        "options": [
+          "Coreg",
+          "DuoNeb",
+          "Celebrex",
+          "Revlimid"
+        ],
+        "answer": "Celebrex"
+      },
+      {
+        "id": "generic_to_brand-mc-18",
+        "question": "What is the brand for rivaroxaban?",
+        "options": [
+          "Lipitor",
+          "Vancocin",
+          "Xarelto",
+          "Toprol XL"
+        ],
+        "answer": "Xarelto"
+      },
+      {
+        "id": "generic_to_brand-mc-19",
+        "question": "What is the brand for mometasone?",
+        "options": [
+          "Cosentyx",
+          "Stelara",
+          "Focalin XR",
+          "Nasonex"
+        ],
+        "answer": "Nasonex"
+      },
+      {
+        "id": "generic_to_brand-mc-20",
+        "question": "What is the brand for ezetimibe?",
+        "options": [
+          "Zetia",
+          "Tenormin",
+          "Ventolin HFA",
+          "Imbruvica"
+        ],
+        "answer": "Zetia"
+      },
+      {
+        "id": "generic_to_brand-mc-21",
+        "question": "What is the brand for insulin detemir?",
+        "options": [
+          "Enbrel",
+          "Levemir",
+          "Plavix",
+          "Focalin XR"
+        ],
+        "answer": "Levemir"
+      },
+      {
+        "id": "generic_to_brand-mc-22",
+        "question": "What is the brand for insulin lispro?",
+        "options": [
+          "Imbruvica",
+          "Actos",
+          "Humalog",
+          "Adderall XR"
+        ],
+        "answer": "Humalog"
+      },
+      {
+        "id": "generic_to_brand-mc-23",
+        "question": "What is the brand for insulin aspart?",
+        "options": [
+          "Flagyl",
+          "Keytruda",
+          "Topamax",
+          "Novolog"
+        ],
+        "answer": "Novolog"
+      },
+      {
+        "id": "generic_to_brand-mc-24",
+        "question": "What is the brand for conjugated estrogens?",
+        "options": [
+          "Avastin",
+          "Tenormin",
+          "Keppra",
+          "Premarin"
+        ],
+        "answer": "Premarin"
+      },
+      {
+        "id": "generic_to_brand-mc-25",
+        "question": "What is the brand for sertraline?",
+        "options": [
+          "Ventolin HFA",
+          "Zoloft",
+          "Xalatan",
+          "Amoxil"
+        ],
+        "answer": "Zoloft"
+      },
+      {
+        "id": "generic_to_brand-mc-26",
+        "question": "What is the brand for fluoxetine?",
+        "options": [
+          "Breo Ellipta",
+          "Xarelto",
+          "Prozac",
+          "Imbruvica"
+        ],
+        "answer": "Prozac"
+      },
+      {
+        "id": "generic_to_brand-mc-27",
+        "question": "What is the brand for escitalopram?",
+        "options": [
+          "Jardiance",
+          "Invokana",
+          "Flexeril",
+          "Lexapro"
+        ],
+        "answer": "Lexapro"
+      },
+      {
+        "id": "generic_to_brand-mc-28",
+        "question": "What is the brand for duloxetine?",
+        "options": [
+          "Revlimid",
+          "Seroquel",
+          "Cymbalta",
+          "Glucophage"
+        ],
+        "answer": "Cymbalta"
+      },
+      {
+        "id": "generic_to_brand-mc-29",
+        "question": "What is the brand for venlafaxine?",
+        "options": [
+          "Flonase",
+          "Incruse Ellipta",
+          "Effexor XR",
+          "Opdivo"
+        ],
+        "answer": "Effexor XR"
+      },
+      {
+        "id": "generic_to_brand-mc-30",
+        "question": "What is the brand for desvenlafaxine?",
+        "options": [
+          "Coreg",
+          "Glucophage",
+          "Pristiq",
+          "Bactroban"
+        ],
+        "answer": "Pristiq"
+      },
+      {
+        "id": "generic_to_brand-mc-31",
+        "question": "What is the brand for aripiprazole?",
+        "options": [
+          "Zithromax",
+          "Jardiance",
+          "Abilify",
+          "Prolia"
+        ],
+        "answer": "Abilify"
+      },
+      {
+        "id": "generic_to_brand-mc-32",
+        "question": "What is the brand for quetiapine?",
+        "options": [
+          "Seroquel",
+          "Janumet",
+          "Welchol",
+          "Tricor"
+        ],
+        "answer": "Seroquel"
+      },
+      {
+        "id": "generic_to_brand-mc-33",
+        "question": "What is the brand for olanzapine?",
+        "options": [
+          "Prolia",
+          "Zyprexa",
+          "Diabeta",
+          "Vascepa"
+        ],
+        "answer": "Zyprexa"
+      },
+      {
+        "id": "generic_to_brand-mc-34",
+        "question": "What is the brand for risperidone?",
+        "options": [
+          "Tresiba",
+          "Cleocin",
+          "Plendil",
+          "Risperdal"
+        ],
+        "answer": "Risperdal"
+      },
+      {
+        "id": "generic_to_brand-mc-35",
+        "question": "What is the brand for methylphenidate ER?",
+        "options": [
+          "Concerta",
+          "Zytiga",
+          "Adalat CC",
+          "Humulin 70/30"
+        ],
+        "answer": "Concerta"
+      },
+      {
+        "id": "generic_to_brand-mc-36",
+        "question": "What is the brand for amphetamine/dextroamphetamine?",
+        "options": [
+          "Trulicity",
+          "Adderall XR",
+          "Glucophage",
+          "Bumex"
+        ],
+        "answer": "Adderall XR"
+      },
+      {
+        "id": "generic_to_brand-mc-37",
+        "question": "What is the brand for atomoxetine?",
+        "options": [
+          "Benicar HCT",
+          "Xalatan",
+          "Flonase",
+          "Strattera"
+        ],
+        "answer": "Strattera"
+      },
+      {
+        "id": "generic_to_brand-mc-38",
+        "question": "What is the brand for dexmethylphenidate?",
+        "options": [
+          "Focalin XR",
+          "Elocon",
+          "Victoza",
+          "Bactroban"
+        ],
+        "answer": "Focalin XR"
+      },
+      {
+        "id": "generic_to_brand-mc-39",
+        "question": "What is the brand for lamotrigine?",
+        "options": [
+          "Valtrex",
+          "Zithromax",
+          "Lamictal",
+          "Cleocin"
+        ],
+        "answer": "Lamictal"
+      },
+      {
+        "id": "generic_to_brand-mc-40",
+        "question": "What is the brand for topiramate?",
+        "options": [
+          "Novolog",
+          "Hydralazine",
+          "Prozac",
+          "Topamax"
+        ],
+        "answer": "Topamax"
+      },
+      {
+        "id": "generic_to_brand-mc-41",
+        "question": "What is the brand for levetiracetam?",
+        "options": [
+          "Premarin",
+          "Ibrance",
+          "Keppra",
+          "Pristiq"
+        ],
+        "answer": "Keppra"
+      },
+      {
+        "id": "generic_to_brand-mc-42",
+        "question": "What is the brand for gabapentin?",
+        "options": [
+          "Travatan Z",
+          "Neurontin",
+          "Lyrica",
+          "Inderal"
+        ],
+        "answer": "Neurontin"
+      },
+      {
+        "id": "generic_to_brand-mc-43",
+        "question": "What is the brand for divalproex?",
+        "options": [
+          "Depakote",
+          "Singulair",
+          "Effexor XR",
+          "Combivent Respimat"
+        ],
+        "answer": "Depakote"
+      },
+      {
+        "id": "generic_to_brand-mc-44",
+        "question": "What is the brand for lidocaine?",
+        "options": [
+          "Amaryl",
+          "Lidoderm",
+          "Lotensin",
+          "Synthroid"
+        ],
+        "answer": "Lidoderm"
+      },
+      {
+        "id": "generic_to_brand-mc-45",
+        "question": "What is the brand for sumatriptan?",
+        "options": [
+          "Imitrex",
+          "Ventolin HFA",
+          "Glucotrol",
+          "Symbicort"
+        ],
+        "answer": "Imitrex"
+      },
+      {
+        "id": "generic_to_brand-mc-46",
+        "question": "What is the brand for clopidogrel?",
+        "options": [
+          "Robaxin",
+          "Humulin N",
+          "Plavix",
+          "Atrovent"
+        ],
+        "answer": "Plavix"
+      },
+      {
+        "id": "generic_to_brand-mc-47",
+        "question": "What is the brand for ticagrelor?",
+        "options": [
+          "Anoro Ellipta",
+          "Hyzaar",
+          "Brilinta",
+          "Lopid"
+        ],
+        "answer": "Brilinta"
+      },
+      {
+        "id": "generic_to_brand-mc-48",
+        "question": "What is the brand for dabigatran?",
+        "options": [
+          "Lovaza",
+          "Concerta",
+          "Pradaxa",
+          "Topamax"
+        ],
+        "answer": "Pradaxa"
+      },
+      {
+        "id": "generic_to_brand-mc-49",
+        "question": "What is the brand for apixaban?",
+        "options": [
+          "Norvasc",
+          "Cozaar",
+          "Humulin N",
+          "Eliquis"
+        ],
+        "answer": "Eliquis"
+      },
+      {
+        "id": "generic_to_brand-mc-50",
+        "question": "What is the brand for warfarin?",
+        "options": [
+          "Herceptin",
+          "Lovaza",
+          "Cymbalta",
+          "Warfarin"
+        ],
+        "answer": "Warfarin"
+      },
+      {
+        "id": "generic_to_brand-mc-51",
+        "question": "What is the brand for adalimumab?",
+        "options": [
+          "Humira",
+          "Focalin XR",
+          "Abilify",
+          "Janumet"
+        ],
+        "answer": "Humira"
+      },
+      {
+        "id": "generic_to_brand-mc-52",
+        "question": "What is the brand for etanercept?",
+        "options": [
+          "Catapres",
+          "OxyContin",
+          "Enbrel",
+          "Lioresal"
+        ],
+        "answer": "Enbrel"
+      },
+      {
+        "id": "generic_to_brand-mc-53",
+        "question": "What is the brand for infliximab?",
+        "options": [
+          "Remicade",
+          "Coreg",
+          "Symbicort",
+          "Xeljanz"
+        ],
+        "answer": "Remicade"
+      },
+      {
+        "id": "generic_to_brand-mc-54",
+        "question": "What is the brand for ustekinumab?",
+        "options": [
+          "Crestor",
+          "Stelara",
+          "Minocin",
+          "Evista"
+        ],
+        "answer": "Stelara"
+      },
+      {
+        "id": "generic_to_brand-mc-55",
+        "question": "What is the brand for tofacitinib?",
+        "options": [
+          "Lantus Solostar",
+          "Amoxil",
+          "Xeljanz",
+          "Remicade"
+        ],
+        "answer": "Xeljanz"
+      },
+      {
+        "id": "generic_to_brand-mc-56",
+        "question": "What is the brand for secukinumab?",
+        "options": [
+          "Nexium",
+          "Zyprexa",
+          "Cosentyx",
+          "Victoza"
+        ],
+        "answer": "Cosentyx"
+      },
+      {
+        "id": "generic_to_brand-mc-57",
+        "question": "What is the brand for ledipasvir/sofosbuvir?",
+        "options": [
+          "Xeljanz",
+          "Adderall XR",
+          "Topamax",
+          "Harvoni"
+        ],
+        "answer": "Harvoni"
+      },
+      {
+        "id": "generic_to_brand-mc-58",
+        "question": "What is the brand for sofosbuvir/velpatasvir?",
+        "options": [
+          "Epclusa",
+          "Zoloft",
+          "Suboxone",
+          "Calan"
+        ],
+        "answer": "Epclusa"
+      },
+      {
+        "id": "generic_to_brand-mc-59",
+        "question": "What is the brand for sofosbuvir?",
+        "options": [
+          "Sovaldi",
+          "Effexor XR",
+          "Amaryl",
+          "Celebrex"
+        ],
+        "answer": "Sovaldi"
+      },
+      {
+        "id": "generic_to_brand-mc-60",
+        "question": "What is the brand for pembrolizumab?",
+        "options": [
+          "Zocor",
+          "Zyprexa",
+          "Pulmicort",
+          "Keytruda"
+        ],
+        "answer": "Keytruda"
+      },
+      {
+        "id": "generic_to_brand-mc-61",
+        "question": "What is the brand for nivolumab?",
+        "options": [
+          "Opdivo",
+          "Depakote",
+          "Plendil",
+          "Breo Ellipta"
+        ],
+        "answer": "Opdivo"
+      },
+      {
+        "id": "generic_to_brand-mc-62",
+        "question": "What is the brand for trastuzumab?",
+        "options": [
+          "Herceptin",
+          "Atrovent",
+          "Diovan HCT",
+          "Cosentyx"
+        ],
+        "answer": "Herceptin"
+      },
+      {
+        "id": "generic_to_brand-mc-63",
+        "question": "What is the brand for bevacizumab?",
+        "options": [
+          "Zaroxolyn",
+          "Ceftin",
+          "Caduet",
+          "Avastin"
+        ],
+        "answer": "Avastin"
+      },
+      {
+        "id": "generic_to_brand-mc-64",
+        "question": "What is the brand for imatinib?",
+        "options": [
+          "Abilify",
+          "Gleevec",
+          "Humulin 70/30",
+          "Concerta"
+        ],
+        "answer": "Gleevec"
+      },
+      {
+        "id": "generic_to_brand-mc-65",
+        "question": "What is the brand for lenalidomide?",
+        "options": [
+          "Atrovent",
+          "Adderall XR",
+          "Revlimid",
+          "Tresiba"
+        ],
+        "answer": "Revlimid"
+      },
+      {
+        "id": "generic_to_brand-mc-66",
+        "question": "What is the brand for palbociclib?",
+        "options": [
+          "Ibrance",
+          "Bydureon",
+          "Lovaza",
+          "Zaroxolyn"
+        ],
+        "answer": "Ibrance"
+      },
+      {
+        "id": "generic_to_brand-mc-67",
+        "question": "What is the brand for erlotinib?",
+        "options": [
+          "Zyprexa",
+          "Tarceva",
+          "Aldactone",
+          "Abilify"
+        ],
+        "answer": "Tarceva"
+      },
+      {
+        "id": "generic_to_brand-mc-68",
+        "question": "What is the brand for ibrutinib?",
+        "options": [
+          "Basaglar",
+          "Imbruvica",
+          "Glucophage",
+          "Mevacor"
+        ],
+        "answer": "Imbruvica"
+      },
+      {
+        "id": "generic_to_brand-mc-69",
+        "question": "What is the brand for denosumab?",
+        "options": [
+          "Prolia",
+          "Ventolin HFA",
+          "Tarceva",
+          "Ozempic"
+        ],
+        "answer": "Prolia"
+      },
+      {
+        "id": "generic_to_brand-mc-70",
+        "question": "What is the brand for abiraterone?",
+        "options": [
+          "Zytiga",
+          "Janumet",
+          "Allegra",
+          "Cosopt"
+        ],
+        "answer": "Zytiga"
+      },
+      {
+        "id": "generic_to_brand-mc-71",
+        "question": "What is the brand for enzalutamide?",
+        "options": [
+          "Dyazide",
+          "Xtandi",
+          "Inderal",
+          "Crestor"
+        ],
+        "answer": "Xtandi"
+      },
+      {
+        "id": "generic_to_brand-mc-72",
+        "question": "What is the brand for leuprolide?",
+        "options": [
+          "Lopid",
+          "Lupron",
+          "Tudorza Pressair",
+          "Namenda"
+        ],
+        "answer": "Lupron"
+      },
+      {
+        "id": "generic_to_brand-mc-73",
+        "question": "What is the brand for teriparatide?",
+        "options": [
+          "Humulin R",
+          "Victoza",
+          "Forteo",
+          "Toujeo"
+        ],
+        "answer": "Forteo"
+      },
+      {
+        "id": "generic_to_brand-mc-74",
+        "question": "What is the brand for risedronate?",
+        "options": [
+          "Flonase",
+          "Invokana",
+          "Actonel",
+          "Warfarin"
+        ],
+        "answer": "Actonel"
+      },
+      {
+        "id": "generic_to_brand-mc-75",
+        "question": "What is the brand for alendronate?",
+        "options": [
+          "Fosamax",
+          "Pradaxa",
+          "Livalo",
+          "Temovate"
+        ],
+        "answer": "Fosamax"
+      },
+      {
+        "id": "generic_to_brand-mc-76",
+        "question": "What is the brand for raloxifene?",
+        "options": [
+          "Strattera",
+          "Ozempic",
+          "Evista",
+          "Prozac"
+        ],
+        "answer": "Evista"
+      },
+      {
+        "id": "generic_to_brand-mc-77",
+        "question": "What is the brand for ibandronate?",
+        "options": [
+          "Pataday",
+          "Soma",
+          "Boniva",
+          "Coreg"
+        ],
+        "answer": "Boniva"
+      },
+      {
+        "id": "generic_to_brand-mc-78",
+        "question": "What is the brand for levalbuterol?",
+        "options": [
+          "Xopenex",
+          "Cosopt",
+          "Abilify",
+          "Forteo"
+        ],
+        "answer": "Xopenex"
+      },
+      {
+        "id": "generic_to_brand-mc-79",
+        "question": "What is the brand for ipratropium?",
+        "options": [
+          "Basaglar",
+          "Atrovent",
+          "Trulicity",
+          "Livalo"
+        ],
+        "answer": "Atrovent"
+      },
+      {
+        "id": "generic_to_brand-mc-80",
+        "question": "What is the brand for montelukast?",
+        "options": [
+          "Risperdal",
+          "Singulair",
+          "Lotrisone",
+          "Trulicity"
+        ],
+        "answer": "Singulair"
+      },
+      {
+        "id": "generic_to_brand-mc-81",
+        "question": "What is the brand for ciclesonide?",
+        "options": [
+          "Prozac",
+          "Lioresal",
+          "Restasis",
+          "Alvesco"
+        ],
+        "answer": "Alvesco"
+      },
+      {
+        "id": "generic_to_brand-mc-82",
+        "question": "What is the brand for budesonide?",
+        "options": [
+          "Pulmicort",
+          "Cozaar",
+          "Lopressor",
+          "Zyprexa"
+        ],
+        "answer": "Pulmicort"
+      },
+      {
+        "id": "generic_to_brand-mc-83",
+        "question": "What is the brand for fluticasone?",
+        "options": [
+          "Flovent",
+          "OxyContin",
+          "Prolia",
+          "Levaquin"
+        ],
+        "answer": "Flovent"
+      },
+      {
+        "id": "generic_to_brand-mc-84",
+        "question": "What is the brand for beclomethasone?",
+        "options": [
+          "Actonel",
+          "Qvar",
+          "Avastin",
+          "Norflex"
+        ],
+        "answer": "Qvar"
+      },
+      {
+        "id": "generic_to_brand-mc-85",
+        "question": "What is the brand for fluticasone/vilanterol?",
+        "options": [
+          "Enbrel",
+          "Gleevec",
+          "Breo Ellipta",
+          "Glucotrol"
+        ],
+        "answer": "Breo Ellipta"
+      },
+      {
+        "id": "generic_to_brand-mc-86",
+        "question": "What is the brand for umeclidinium/vilanterol?",
+        "options": [
+          "Zytiga",
+          "Namenda",
+          "Anoro Ellipta",
+          "Ibrance"
+        ],
+        "answer": "Anoro Ellipta"
+      },
+      {
+        "id": "generic_to_brand-mc-87",
+        "question": "What is the brand for umeclidinium?",
+        "options": [
+          "Incruse Ellipta",
+          "Atrovent",
+          "Spiriva Handihaler",
+          "Adderall XR"
+        ],
+        "answer": "Incruse Ellipta"
+      },
+      {
+        "id": "generic_to_brand-mc-88",
+        "question": "What is the brand for aclidinium?",
+        "options": [
+          "Amoxil",
+          "Flovent",
+          "Victoza",
+          "Tudorza Pressair"
+        ],
+        "answer": "Tudorza Pressair"
+      },
+      {
+        "id": "generic_to_brand-mc-89",
+        "question": "What is the brand for ipratropium/albuterol?",
+        "options": [
+          "Inderal",
+          "Keppra",
+          "Catapres",
+          "DuoNeb"
+        ],
+        "answer": "DuoNeb"
+      },
+      {
+        "id": "generic_to_brand-mc-90",
+        "question": "What is the brand for ipratropium/albuterol?",
+        "options": [
+          "Zyprexa",
+          "Novolog",
+          "Combivent Respimat",
+          "Zanaflex"
+        ],
+        "answer": "Combivent Respimat"
+      },
+      {
+        "id": "generic_to_brand-mc-91",
+        "question": "What is the brand for azithromycin?",
+        "options": [
+          "Zithromax",
+          "Fosamax",
+          "Amaryl",
+          "Zovirax"
+        ],
+        "answer": "Zithromax"
+      },
+      {
+        "id": "generic_to_brand-mc-92",
+        "question": "What is the brand for amoxicillin?",
+        "options": [
+          "Amoxil",
+          "Epclusa",
+          "Combivent Respimat",
+          "Dyazide"
+        ],
+        "answer": "Amoxil"
+      },
+      {
+        "id": "generic_to_brand-mc-93",
+        "question": "What is the brand for amoxicillin/clavulanate?",
+        "options": [
+          "Augmentin",
+          "Zoloft",
+          "Mevacor",
+          "Valtrex"
+        ],
+        "answer": "Augmentin"
+      },
+      {
+        "id": "generic_to_brand-mc-94",
+        "question": "What is the brand for cephalexin?",
+        "options": [
+          "Minocin",
+          "Elocon",
+          "Qvar",
+          "Keflex"
+        ],
+        "answer": "Keflex"
+      },
+      {
+        "id": "generic_to_brand-mc-95",
+        "question": "What is the brand for cefdinir?",
+        "options": [
+          "Amaryl",
+          "Vascepa",
+          "Norflex",
+          "Omnicef"
+        ],
+        "answer": "Omnicef"
+      },
+      {
+        "id": "generic_to_brand-mc-96",
+        "question": "What is the brand for cefuroxime?",
+        "options": [
+          "Ceftin",
+          "Symbicort",
+          "Revlimid",
+          "Calan"
+        ],
+        "answer": "Ceftin"
+      },
+      {
+        "id": "generic_to_brand-mc-97",
+        "question": "What is the brand for levofloxacin?",
+        "options": [
+          "Bumex",
+          "Astelin",
+          "Levaquin",
+          "Suboxone"
+        ],
+        "answer": "Levaquin"
+      },
+      {
+        "id": "generic_to_brand-mc-98",
+        "question": "What is the brand for ciprofloxacin?",
+        "options": [
+          "Xarelto",
+          "Cipro",
+          "Diovan HCT",
+          "Tarceva"
+        ],
+        "answer": "Cipro"
+      },
+      {
+        "id": "generic_to_brand-mc-99",
+        "question": "What is the brand for sulfamethoxazole/trimethoprim?",
+        "options": [
+          "Zaroxolyn",
+          "Symbicort",
+          "Bactrim",
+          "Combivent Respimat"
+        ],
+        "answer": "Bactrim"
+      },
+      {
+        "id": "generic_to_brand-mc-100",
+        "question": "What is the brand for nitrofurantoin?",
+        "options": [
+          "Concerta",
+          "Tarceva",
+          "Macrobid",
+          "Diflucan"
+        ],
+        "answer": "Macrobid"
+      },
+      {
+        "id": "generic_to_brand-mc-101",
+        "question": "What is the brand for doxycycline hyclate?",
+        "options": [
+          "Premarin",
+          "Claritin",
+          "Doxycycline",
+          "Flagyl"
+        ],
+        "answer": "Doxycycline"
+      },
+      {
+        "id": "generic_to_brand-mc-102",
+        "question": "What is the brand for minocycline?",
+        "options": [
+          "Minocin",
+          "Lioresal",
+          "Zocor",
+          "Imbruvica"
+        ],
+        "answer": "Minocin"
+      },
+      {
+        "id": "generic_to_brand-mc-103",
+        "question": "What is the brand for metronidazole?",
+        "options": [
+          "Cipro",
+          "Cleocin",
+          "Flagyl",
+          "Imbruvica"
+        ],
+        "answer": "Flagyl"
+      },
+      {
+        "id": "generic_to_brand-mc-104",
+        "question": "What is the brand for clindamycin?",
+        "options": [
+          "Humulin N",
+          "Cleocin",
+          "Diovan HCT",
+          "Actos"
+        ],
+        "answer": "Cleocin"
+      },
+      {
+        "id": "generic_to_brand-mc-105",
+        "question": "What is the brand for fluconazole?",
+        "options": [
+          "Restasis",
+          "Kenalog",
+          "Namenda",
+          "Diflucan"
+        ],
+        "answer": "Diflucan"
+      },
+      {
+        "id": "generic_to_brand-mc-106",
+        "question": "What is the brand for vancomycin?",
+        "options": [
+          "Synthroid",
+          "Vancocin",
+          "Brilinta",
+          "Lioresal"
+        ],
+        "answer": "Vancocin"
+      },
+      {
+        "id": "generic_to_brand-mc-107",
+        "question": "What is the brand for acyclovir?",
+        "options": [
+          "Alvesco",
+          "Flovent",
+          "Zovirax",
+          "Truvada"
+        ],
+        "answer": "Zovirax"
+      },
+      {
+        "id": "generic_to_brand-mc-108",
+        "question": "What is the brand for valacyclovir?",
+        "options": [
+          "Bactroban",
+          "Valtrex",
+          "Tenormin",
+          "Enbrel"
+        ],
+        "answer": "Valtrex"
+      },
+      {
+        "id": "generic_to_brand-mc-109",
+        "question": "What is the brand for baclofen?",
+        "options": [
+          "Lioresal",
+          "Lopid",
+          "Xtandi",
+          "Actonel"
+        ],
+        "answer": "Lioresal"
+      },
+      {
+        "id": "generic_to_brand-mc-110",
+        "question": "What is the brand for tizanidine?",
+        "options": [
+          "Levaquin",
+          "Vascepa",
+          "Zanaflex",
+          "Amaryl"
+        ],
+        "answer": "Zanaflex"
+      },
+      {
+        "id": "generic_to_brand-mc-111",
+        "question": "What is the brand for cyclobenzaprine?",
+        "options": [
+          "Brilinta",
+          "Risperdal",
+          "Soma",
+          "Flexeril"
+        ],
+        "answer": "Flexeril"
+      },
+      {
+        "id": "generic_to_brand-mc-112",
+        "question": "What is the brand for carisoprodol?",
+        "options": [
+          "Actos",
+          "Norvasc",
+          "Incruse Ellipta",
+          "Soma"
+        ],
+        "answer": "Soma"
+      },
+      {
+        "id": "generic_to_brand-mc-113",
+        "question": "What is the brand for methocarbamol?",
+        "options": [
+          "Nasonex",
+          "Robaxin",
+          "Zithromax",
+          "Cozaar"
+        ],
+        "answer": "Robaxin"
+      },
+      {
+        "id": "generic_to_brand-mc-114",
+        "question": "What is the brand for orphenadrine?",
+        "options": [
+          "Welchol",
+          "Travatan Z",
+          "Norflex",
+          "Amoxil"
+        ],
+        "answer": "Norflex"
+      },
+      {
+        "id": "generic_to_brand-mc-115",
+        "question": "What is the brand for furosemide?",
+        "options": [
+          "Stelara",
+          "Lasix",
+          "Adalat CC",
+          "Vascepa"
+        ],
+        "answer": "Lasix"
+      },
+      {
+        "id": "generic_to_brand-mc-116",
+        "question": "What is the brand for hydrochlorothiazide?",
+        "options": [
+          "Microzide",
+          "Abilify",
+          "Cialis",
+          "Tenormin"
+        ],
+        "answer": "Microzide"
+      },
+      {
+        "id": "generic_to_brand-mc-117",
+        "question": "What is the brand for spironolactone?",
+        "options": [
+          "Aldactone",
+          "Synthroid",
+          "Ventolin HFA",
+          "Abilify"
+        ],
+        "answer": "Aldactone"
+      },
+      {
+        "id": "generic_to_brand-mc-118",
+        "question": "What is the brand for triamterene/hydrochlorothiazide?",
+        "options": [
+          "Norflex",
+          "Brilinta",
+          "Cipro",
+          "Dyazide"
+        ],
+        "answer": "Dyazide"
+      },
+      {
+        "id": "generic_to_brand-mc-119",
+        "question": "What is the brand for bumetanide?",
+        "options": [
+          "Benicar",
+          "Bystolic",
+          "Avastin",
+          "Bumex"
+        ],
+        "answer": "Bumex"
+      },
+      {
+        "id": "generic_to_brand-mc-120",
+        "question": "What is the brand for torsemide?",
+        "options": [
+          "Xeljanz",
+          "Demadex",
+          "Vyvanse",
+          "Augmentin"
+        ],
+        "answer": "Demadex"
+      },
+      {
+        "id": "generic_to_brand-mc-121",
+        "question": "What is the brand for metolazone?",
+        "options": [
+          "Basaglar",
+          "Zaroxolyn",
+          "Soma",
+          "Nexium"
+        ],
+        "answer": "Zaroxolyn"
+      },
+      {
+        "id": "generic_to_brand-mc-122",
+        "question": "What is the brand for lisinopril?",
+        "options": [
+          "Niaspan",
+          "Claritin",
+          "Prinivil",
+          "Alvesco"
+        ],
+        "answer": "Prinivil"
+      },
+      {
+        "id": "generic_to_brand-mc-123",
+        "question": "What is the brand for losartan?",
+        "options": [
+          "Ceftin",
+          "Cozaar",
+          "Xtandi",
+          "Lopid"
+        ],
+        "answer": "Cozaar"
+      },
+      {
+        "id": "generic_to_brand-mc-124",
+        "question": "What is the brand for valsartan?",
+        "options": [
+          "Minocin",
+          "Zytiga",
+          "Tricor",
+          "Diovan"
+        ],
+        "answer": "Diovan"
+      },
+      {
+        "id": "generic_to_brand-mc-125",
+        "question": "What is the brand for olmesartan?",
+        "options": [
+          "Prozac",
+          "Zestoretic",
+          "Imitrex",
+          "Benicar"
+        ],
+        "answer": "Benicar"
+      },
+      {
+        "id": "generic_to_brand-mc-126",
+        "question": "What is the brand for ramipril?",
+        "options": [
+          "Zocor",
+          "Niaspan",
+          "Risperdal",
+          "Altace"
+        ],
+        "answer": "Altace"
+      },
+      {
+        "id": "generic_to_brand-mc-127",
+        "question": "What is the brand for benazepril?",
+        "options": [
+          "Vasotec",
+          "Lotensin",
+          "Flonase",
+          "Advair Diskus"
+        ],
+        "answer": "Lotensin"
+      },
+      {
+        "id": "generic_to_brand-mc-128",
+        "question": "What is the brand for enalapril?",
+        "options": [
+          "Strattera",
+          "Boniva",
+          "Vasotec",
+          "Seroquel"
+        ],
+        "answer": "Vasotec"
+      },
+      {
+        "id": "generic_to_brand-mc-129",
+        "question": "What is the brand for amlodipine?",
+        "options": [
+          "Norvasc",
+          "Levaquin",
+          "Nasonex",
+          "Singulair"
+        ],
+        "answer": "Norvasc"
+      },
+      {
+        "id": "generic_to_brand-mc-130",
+        "question": "What is the brand for metoprolol tartrate?",
+        "options": [
+          "Lopressor",
+          "Combivent Respimat",
+          "Cozaar",
+          "Concerta"
+        ],
+        "answer": "Lopressor"
+      },
+      {
+        "id": "generic_to_brand-mc-131",
+        "question": "What is the brand for metoprolol succinate?",
+        "options": [
+          "Soma",
+          "Benicar",
+          "Toprol XL",
+          "Restasis"
+        ],
+        "answer": "Toprol XL"
+      },
+      {
+        "id": "generic_to_brand-mc-132",
+        "question": "What is the brand for atenolol?",
+        "options": [
+          "Demadex",
+          "Pravachol",
+          "Tenormin",
+          "Novolog"
+        ],
+        "answer": "Tenormin"
+      },
+      {
+        "id": "generic_to_brand-mc-133",
+        "question": "What is the brand for carvedilol?",
+        "options": [
+          "Valtrex",
+          "Keflex",
+          "Coreg",
+          "Xyzal"
+        ],
+        "answer": "Coreg"
+      },
+      {
+        "id": "generic_to_brand-mc-134",
+        "question": "What is the brand for propranolol?",
+        "options": [
+          "Benicar HCT",
+          "Inderal",
+          "Diovan",
+          "Cialis"
+        ],
+        "answer": "Inderal"
+      },
+      {
+        "id": "generic_to_brand-mc-135",
+        "question": "What is the brand for nebivolol?",
+        "options": [
+          "Bystolic",
+          "Caduet",
+          "Dyazide",
+          "Humalog"
+        ],
+        "answer": "Bystolic"
+      },
+      {
+        "id": "generic_to_brand-mc-136",
+        "question": "What is the brand for hydralazine?",
+        "options": [
+          "Flonase",
+          "Benicar",
+          "Cleocin",
+          "Hydralazine"
+        ],
+        "answer": "Hydralazine"
+      },
+      {
+        "id": "generic_to_brand-mc-137",
+        "question": "What is the brand for clonidine?",
+        "options": [
+          "Humalog",
+          "Catapres",
+          "Cozaar",
+          "Pristiq"
+        ],
+        "answer": "Catapres"
+      },
+      {
+        "id": "generic_to_brand-mc-138",
+        "question": "What is the brand for olmesartan/hydrochlorothiazide?",
+        "options": [
+          "Flexeril",
+          "Stelara",
+          "Depakote",
+          "Benicar HCT"
+        ],
+        "answer": "Benicar HCT"
+      },
+      {
+        "id": "generic_to_brand-mc-139",
+        "question": "What is the brand for valsartan/hydrochlorothiazide?",
+        "options": [
+          "Flagyl",
+          "Diovan HCT",
+          "Celebrex",
+          "Macrobid"
+        ],
+        "answer": "Diovan HCT"
+      },
+      {
+        "id": "generic_to_brand-mc-140",
+        "question": "What is the brand for lisinopril/hydrochlorothiazide?",
+        "options": [
+          "Macrobid",
+          "Zestoretic",
+          "Premarin",
+          "Plavix"
+        ],
+        "answer": "Zestoretic"
+      },
+      {
+        "id": "generic_to_brand-mc-141",
+        "question": "What is the brand for losartan/hydrochlorothiazide?",
+        "options": [
+          "Tricor",
+          "Sovaldi",
+          "Cosentyx",
+          "Hyzaar"
+        ],
+        "answer": "Hyzaar"
+      },
+      {
+        "id": "generic_to_brand-mc-142",
+        "question": "What is the brand for verapamil?",
+        "options": [
+          "Niaspan",
+          "Ceftin",
+          "Calan",
+          "Depakote"
+        ],
+        "answer": "Calan"
+      },
+      {
+        "id": "generic_to_brand-mc-143",
+        "question": "What is the brand for diltiazem?",
+        "options": [
+          "Spiriva Handihaler",
+          "Ventolin HFA",
+          "Cardizem",
+          "Kenalog"
+        ],
+        "answer": "Cardizem"
+      },
+      {
+        "id": "generic_to_brand-mc-144",
+        "question": "What is the brand for felodipine?",
+        "options": [
+          "Neurontin",
+          "Prinivil",
+          "Glucophage",
+          "Plendil"
+        ],
+        "answer": "Plendil"
+      },
+      {
+        "id": "generic_to_brand-mc-145",
+        "question": "What is the brand for nifedipine?",
+        "options": [
+          "Focalin XR",
+          "Revlimid",
+          "Plavix",
+          "Adalat CC"
+        ],
+        "answer": "Adalat CC"
+      },
+      {
+        "id": "generic_to_brand-mc-146",
+        "question": "What is the brand for amlodipine/benazepril?",
+        "options": [
+          "Fosamax",
+          "Lotrel",
+          "Seroquel",
+          "Dyazide"
+        ],
+        "answer": "Lotrel"
+      },
+      {
+        "id": "generic_to_brand-mc-147",
+        "question": "What is the brand for amlodipine/atorvastatin?",
+        "options": [
+          "Epclusa",
+          "Hyzaar",
+          "Caduet",
+          "Depakote"
+        ],
+        "answer": "Caduet"
+      },
+      {
+        "id": "generic_to_brand-mc-148",
+        "question": "What is the brand for atorvastatin?",
+        "options": [
+          "Keppra",
+          "Januvia",
+          "Invokana",
+          "Lipitor"
+        ],
+        "answer": "Lipitor"
+      },
+      {
+        "id": "generic_to_brand-mc-149",
+        "question": "What is the brand for simvastatin?",
+        "options": [
+          "Altace",
+          "Zocor",
+          "Lamictal",
+          "Pulmicort"
+        ],
+        "answer": "Zocor"
+      },
+      {
+        "id": "generic_to_brand-mc-150",
+        "question": "What is the brand for pravastatin?",
+        "options": [
+          "Actonel",
+          "Avastin",
+          "Pravachol",
+          "Clarinex"
+        ],
+        "answer": "Pravachol"
+      },
+      {
+        "id": "generic_to_brand-mc-151",
+        "question": "What is the brand for lovastatin?",
+        "options": [
+          "Mevacor",
+          "Xeljanz",
+          "Synthroid",
+          "Clarinex"
+        ],
+        "answer": "Mevacor"
+      },
+      {
+        "id": "generic_to_brand-mc-152",
+        "question": "What is the brand for pitavastatin?",
+        "options": [
+          "Imitrex",
+          "Livalo",
+          "Symbicort",
+          "Astelin"
+        ],
+        "answer": "Livalo"
+      },
+      {
+        "id": "generic_to_brand-mc-153",
+        "question": "What is the brand for colesevelam?",
+        "options": [
+          "Synjardy",
+          "Allegra",
+          "Clarinex",
+          "Welchol"
+        ],
+        "answer": "Welchol"
+      },
+      {
+        "id": "generic_to_brand-mc-154",
+        "question": "What is the brand for fenofibrate?",
+        "options": [
+          "Tarceva",
+          "Tenormin",
+          "Tricor",
+          "Trulicity"
+        ],
+        "answer": "Tricor"
+      },
+      {
+        "id": "generic_to_brand-mc-155",
+        "question": "What is the brand for gemfibrozil?",
+        "options": [
+          "Lidoderm",
+          "Vascepa",
+          "Warfarin",
+          "Lopid"
+        ],
+        "answer": "Lopid"
+      },
+      {
+        "id": "generic_to_brand-mc-156",
+        "question": "What is the brand for niacin ER?",
+        "options": [
+          "Hydralazine",
+          "Tenormin",
+          "Niaspan",
+          "Zyprexa"
+        ],
+        "answer": "Niaspan"
+      },
+      {
+        "id": "generic_to_brand-mc-157",
+        "question": "What is the brand for icosapent ethyl?",
+        "options": [
+          "Vascepa",
+          "Keflex",
+          "Opdivo",
+          "Cozaar"
+        ],
+        "answer": "Vascepa"
+      },
+      {
+        "id": "generic_to_brand-mc-158",
+        "question": "What is the brand for omega-3 acid ethyl esters?",
+        "options": [
+          "Lovaza",
+          "Tarceva",
+          "Xigduo XR",
+          "Benicar"
+        ],
+        "answer": "Lovaza"
+      },
+      {
+        "id": "generic_to_brand-mc-159",
+        "question": "What is the brand for empagliflozin?",
+        "options": [
+          "Atrovent",
+          "Xtandi",
+          "Jardiance",
+          "Celebrex"
+        ],
+        "answer": "Jardiance"
+      },
+      {
+        "id": "generic_to_brand-mc-160",
+        "question": "What is the brand for canagliflozin?",
+        "options": [
+          "Evista",
+          "Invokana",
+          "Lyrica",
+          "Restasis"
+        ],
+        "answer": "Invokana"
+      },
+      {
+        "id": "generic_to_brand-mc-161",
+        "question": "What is the brand for dapagliflozin?",
+        "options": [
+          "Cipro",
+          "Farxiga",
+          "Travatan Z",
+          "Diovan HCT"
+        ],
+        "answer": "Farxiga"
+      },
+      {
+        "id": "generic_to_brand-mc-162",
+        "question": "What is the brand for metformin?",
+        "options": [
+          "Keflex",
+          "Norflex",
+          "Glucophage",
+          "Novolog"
+        ],
+        "answer": "Glucophage"
+      },
+      {
+        "id": "generic_to_brand-mc-163",
+        "question": "What is the brand for liraglutide?",
+        "options": [
+          "Pepcid",
+          "Boniva",
+          "Victoza",
+          "Breo Ellipta"
+        ],
+        "answer": "Victoza"
+      },
+      {
+        "id": "generic_to_brand-mc-164",
+        "question": "What is the brand for exenatide ER?",
+        "options": [
+          "Imitrex",
+          "Cymbalta",
+          "Bydureon",
+          "Pradaxa"
+        ],
+        "answer": "Bydureon"
+      },
+      {
+        "id": "generic_to_brand-mc-165",
+        "question": "What is the brand for dulaglutide?",
+        "options": [
+          "Tresiba",
+          "Trulicity",
+          "Keflex",
+          "Effexor XR"
+        ],
+        "answer": "Trulicity"
+      },
+      {
+        "id": "generic_to_brand-mc-166",
+        "question": "What is the brand for semaglutide?",
+        "options": [
+          "Invokana",
+          "Kenalog",
+          "Herceptin",
+          "Ozempic"
+        ],
+        "answer": "Ozempic"
+      },
+      {
+        "id": "generic_to_brand-mc-167",
+        "question": "What is the brand for insulin glargine?",
+        "options": [
+          "Adderall XR",
+          "Basaglar",
+          "Alvesco",
+          "Concerta"
+        ],
+        "answer": "Basaglar"
+      },
+      {
+        "id": "generic_to_brand-mc-168",
+        "question": "What is the brand for insulin glargine?",
+        "options": [
+          "Timoptic",
+          "Toujeo",
+          "Pataday",
+          "Humulin N"
+        ],
+        "answer": "Toujeo"
+      },
+      {
+        "id": "generic_to_brand-mc-169",
+        "question": "What is the brand for insulin degludec?",
+        "options": [
+          "Lupron",
+          "Tresiba",
+          "Remicade",
+          "Humira"
+        ],
+        "answer": "Tresiba"
+      },
+      {
+        "id": "generic_to_brand-mc-170",
+        "question": "What is the brand for insulin NPH?",
+        "options": [
+          "Risperdal",
+          "Lyrica",
+          "Humulin N",
+          "Altace"
+        ],
+        "answer": "Humulin N"
+      },
+      {
+        "id": "generic_to_brand-mc-171",
+        "question": "What is the brand for regular insulin?",
+        "options": [
+          "Mevacor",
+          "Humulin R",
+          "Evista",
+          "Victoza"
+        ],
+        "answer": "Humulin R"
+      },
+      {
+        "id": "generic_to_brand-mc-172",
+        "question": "What is the brand for insulin NPH/regular?",
+        "options": [
+          "Forteo",
+          "Norvasc",
+          "Minocin",
+          "Humulin 70/30"
+        ],
+        "answer": "Humulin 70/30"
+      },
+      {
+        "id": "generic_to_brand-mc-173",
+        "question": "What is the brand for glipizide?",
+        "options": [
+          "Glucotrol",
+          "Sovaldi",
+          "Caduet",
+          "Lantus Solostar"
+        ],
+        "answer": "Glucotrol"
+      },
+      {
+        "id": "generic_to_brand-mc-174",
+        "question": "What is the brand for glimepiride?",
+        "options": [
+          "Temovate",
+          "Amaryl",
+          "Cialis",
+          "Nexium"
+        ],
+        "answer": "Amaryl"
+      },
+      {
+        "id": "generic_to_brand-mc-175",
+        "question": "What is the brand for glyburide?",
+        "options": [
+          "Celebrex",
+          "Warfarin",
+          "Crestor",
+          "Diabeta"
+        ],
+        "answer": "Diabeta"
+      },
+      {
+        "id": "generic_to_brand-mc-176",
+        "question": "What is the brand for pioglitazone?",
+        "options": [
+          "Pulmicort",
+          "Altace",
+          "Timoptic",
+          "Actos"
+        ],
+        "answer": "Actos"
+      },
+      {
+        "id": "generic_to_brand-mc-177",
+        "question": "What is the brand for sitagliptin/metformin?",
+        "options": [
+          "Qvar",
+          "Lasix",
+          "Janumet",
+          "Caduet"
+        ],
+        "answer": "Janumet"
+      },
+      {
+        "id": "generic_to_brand-mc-178",
+        "question": "What is the brand for dapagliflozin/metformin?",
+        "options": [
+          "Abilify",
+          "Xigduo XR",
+          "Adalat CC",
+          "Zoloft"
+        ],
+        "answer": "Xigduo XR"
+      },
+      {
+        "id": "generic_to_brand-mc-179",
+        "question": "What is the brand for empagliflozin/metformin?",
+        "options": [
+          "Pataday",
+          "Timoptic",
+          "Synjardy",
+          "Coreg"
+        ],
+        "answer": "Synjardy"
+      },
+      {
+        "id": "generic_to_brand-mc-180",
+        "question": "What is the brand for mupirocin?",
+        "options": [
+          "OxyContin",
+          "Bactroban",
+          "Pepcid",
+          "Levemir"
+        ],
+        "answer": "Bactroban"
+      },
+      {
+        "id": "generic_to_brand-mc-181",
+        "question": "What is the brand for triamcinolone?",
+        "options": [
+          "Xyzal",
+          "Forteo",
+          "Kenalog",
+          "Advair Diskus"
+        ],
+        "answer": "Kenalog"
+      },
+      {
+        "id": "generic_to_brand-mc-182",
+        "question": "What is the brand for mometasone?",
+        "options": [
+          "Restasis",
+          "Ibrance",
+          "Xigduo XR",
+          "Elocon"
+        ],
+        "answer": "Elocon"
+      },
+      {
+        "id": "generic_to_brand-mc-183",
+        "question": "What is the brand for clobetasol?",
+        "options": [
+          "Namenda",
+          "OxyContin",
+          "Augmentin",
+          "Temovate"
+        ],
+        "answer": "Temovate"
+      },
+      {
+        "id": "generic_to_brand-mc-184",
+        "question": "What is the brand for clotrimazole/betamethasone?",
+        "options": [
+          "Pristiq",
+          "Lotrisone",
+          "Zestoretic",
+          "Tudorza Pressair"
+        ],
+        "answer": "Lotrisone"
+      },
+      {
+        "id": "generic_to_brand-mc-185",
+        "question": "What is the brand for tretinoin?",
+        "options": [
+          "Xalatan",
+          "Livalo",
+          "Retin-A",
+          "Diovan HCT"
+        ],
+        "answer": "Retin-A"
+      },
+      {
+        "id": "generic_to_brand-mc-186",
+        "question": "What is the brand for desloratadine?",
+        "options": [
+          "Synjardy",
+          "Clarinex",
+          "Zithromax",
+          "Astelin"
+        ],
+        "answer": "Clarinex"
+      },
+      {
+        "id": "generic_to_brand-mc-187",
+        "question": "What is the brand for cetirizine?",
+        "options": [
+          "Kenalog",
+          "Zyrtec",
+          "Lopid",
+          "Singulair"
+        ],
+        "answer": "Zyrtec"
+      },
+      {
+        "id": "generic_to_brand-mc-188",
+        "question": "What is the brand for levocetirizine?",
+        "options": [
+          "Jardiance",
+          "Xyzal",
+          "Pravachol",
+          "Robaxin"
+        ],
+        "answer": "Xyzal"
+      },
+      {
+        "id": "generic_to_brand-mc-189",
+        "question": "What is the brand for fexofenadine?",
+        "options": [
+          "Incruse Ellipta",
+          "Mevacor",
+          "Keppra",
+          "Allegra"
+        ],
+        "answer": "Allegra"
+      },
+      {
+        "id": "generic_to_brand-mc-190",
+        "question": "What is the brand for loratadine?",
+        "options": [
+          "Boniva",
+          "Altace",
+          "Claritin",
+          "Crestor"
+        ],
+        "answer": "Claritin"
+      },
+      {
+        "id": "generic_to_brand-mc-191",
+        "question": "What is the brand for fluticasone nasal?",
+        "options": [
+          "Invokana",
+          "Boniva",
+          "Vascepa",
+          "Flonase"
+        ],
+        "answer": "Flonase"
+      },
+      {
+        "id": "generic_to_brand-mc-192",
+        "question": "What is the brand for azelastine nasal?",
+        "options": [
+          "DuoNeb",
+          "Astelin",
+          "Pepcid",
+          "Catapres"
+        ],
+        "answer": "Astelin"
+      },
+      {
+        "id": "generic_to_brand-mc-193",
+        "question": "What is the brand for olopatadine?",
+        "options": [
+          "Pataday",
+          "Neurontin",
+          "Cosopt",
+          "Bydureon"
+        ],
+        "answer": "Pataday"
+      },
+      {
+        "id": "generic_to_brand-mc-194",
+        "question": "What is the brand for cyclosporine ophthalmic?",
+        "options": [
+          "Lipitor",
+          "Remicade",
+          "Restasis",
+          "Diovan"
+        ],
+        "answer": "Restasis"
+      },
+      {
+        "id": "generic_to_brand-mc-195",
+        "question": "What is the brand for latanoprost?",
+        "options": [
+          "Ventolin HFA",
+          "Levaquin",
+          "Catapres",
+          "Xalatan"
+        ],
+        "answer": "Xalatan"
+      },
+      {
+        "id": "generic_to_brand-mc-196",
+        "question": "What is the brand for travoprost?",
+        "options": [
+          "Augmentin",
+          "Xtandi",
+          "Effexor XR",
+          "Travatan Z"
+        ],
+        "answer": "Travatan Z"
+      },
+      {
+        "id": "generic_to_brand-mc-197",
+        "question": "What is the brand for dorzolamide/timolol?",
+        "options": [
+          "Cosopt",
+          "Stelara",
+          "Cymbalta",
+          "Harvoni"
+        ],
+        "answer": "Cosopt"
+      },
+      {
+        "id": "generic_to_brand-mc-198",
+        "question": "What is the brand for timolol?",
+        "options": [
+          "Boniva",
+          "Invokana",
+          "Timoptic",
+          "Pulmicort"
+        ],
+        "answer": "Timoptic"
+      },
+      {
+        "id": "generic_to_brand-mc-199",
+        "question": "What is the brand for brimonidine?",
+        "options": [
+          "Imbruvica",
+          "Diovan HCT",
+          "Qvar",
+          "Alphagan P"
+        ],
+        "answer": "Alphagan P"
+      },
+      {
+        "id": "generic_to_brand-mc-200",
+        "question": "What is the brand for famotidine?",
+        "options": [
+          "Lotrisone",
+          "Pepcid",
+          "Niaspan",
+          "Herceptin"
+        ],
+        "answer": "Pepcid"
+      }
+    ],
+    "fill_in_the_blank": [
+      {
+        "id": "generic_to_brand-fib-1",
+        "question": "levothyroxine → ________ (brand)",
+        "answer": "Synthroid"
+      },
+      {
+        "id": "generic_to_brand-fib-2",
+        "question": "rosuvastatin → ________ (brand)",
+        "answer": "Crestor"
+      },
+      {
+        "id": "generic_to_brand-fib-3",
+        "question": "albuterol → ________ (brand)",
+        "answer": "Ventolin HFA"
+      },
+      {
+        "id": "generic_to_brand-fib-4",
+        "question": "esomeprazole → ________ (brand)",
+        "answer": "Nexium"
+      },
+      {
+        "id": "generic_to_brand-fib-5",
+        "question": "fluticasone/salmeterol → ________ (brand)",
+        "answer": "Advair Diskus"
+      },
+      {
+        "id": "generic_to_brand-fib-6",
+        "question": "insulin glargine → ________ (brand)",
+        "answer": "Lantus Solostar"
+      },
+      {
+        "id": "generic_to_brand-fib-7",
+        "question": "lisdexamfetamine → ________ (brand)",
+        "answer": "Vyvanse"
+      },
+      {
+        "id": "generic_to_brand-fib-8",
+        "question": "pregabalin → ________ (brand)",
+        "answer": "Lyrica"
+      },
+      {
+        "id": "generic_to_brand-fib-9",
+        "question": "tiotropium → ________ (brand)",
+        "answer": "Spiriva Handihaler"
+      },
+      {
+        "id": "generic_to_brand-fib-10",
+        "question": "sitagliptin → ________ (brand)",
+        "answer": "Januvia"
+      },
+      {
+        "id": "generic_to_brand-fib-11",
+        "question": "memantine → ________ (brand)",
+        "answer": "Namenda"
+      },
+      {
+        "id": "generic_to_brand-fib-12",
+        "question": "budesonide/formoterol → ________ (brand)",
+        "answer": "Symbicort"
+      },
+      {
+        "id": "generic_to_brand-fib-13",
+        "question": "tadalafil → ________ (brand)",
+        "answer": "Cialis"
+      },
+      {
+        "id": "generic_to_brand-fib-14",
+        "question": "buprenorphine/naloxone → ________ (brand)",
+        "answer": "Suboxone"
+      },
+      {
+        "id": "generic_to_brand-fib-15",
+        "question": "oxycodone ER → ________ (brand)",
+        "answer": "OxyContin"
+      },
+      {
+        "id": "generic_to_brand-fib-16",
+        "question": "emtricitabine/tenofovir disoproxil → ________ (brand)",
+        "answer": "Truvada"
+      },
+      {
+        "id": "generic_to_brand-fib-17",
+        "question": "celecoxib → ________ (brand)",
+        "answer": "Celebrex"
+      },
+      {
+        "id": "generic_to_brand-fib-18",
+        "question": "rivaroxaban → ________ (brand)",
+        "answer": "Xarelto"
+      },
+      {
+        "id": "generic_to_brand-fib-19",
+        "question": "mometasone → ________ (brand)",
+        "answer": "Nasonex"
+      },
+      {
+        "id": "generic_to_brand-fib-20",
+        "question": "ezetimibe → ________ (brand)",
+        "answer": "Zetia"
+      },
+      {
+        "id": "generic_to_brand-fib-21",
+        "question": "insulin detemir → ________ (brand)",
+        "answer": "Levemir"
+      },
+      {
+        "id": "generic_to_brand-fib-22",
+        "question": "insulin lispro → ________ (brand)",
+        "answer": "Humalog"
+      },
+      {
+        "id": "generic_to_brand-fib-23",
+        "question": "insulin aspart → ________ (brand)",
+        "answer": "Novolog"
+      },
+      {
+        "id": "generic_to_brand-fib-24",
+        "question": "conjugated estrogens → ________ (brand)",
+        "answer": "Premarin"
+      },
+      {
+        "id": "generic_to_brand-fib-25",
+        "question": "sertraline → ________ (brand)",
+        "answer": "Zoloft"
+      },
+      {
+        "id": "generic_to_brand-fib-26",
+        "question": "fluoxetine → ________ (brand)",
+        "answer": "Prozac"
+      },
+      {
+        "id": "generic_to_brand-fib-27",
+        "question": "escitalopram → ________ (brand)",
+        "answer": "Lexapro"
+      },
+      {
+        "id": "generic_to_brand-fib-28",
+        "question": "duloxetine → ________ (brand)",
+        "answer": "Cymbalta"
+      },
+      {
+        "id": "generic_to_brand-fib-29",
+        "question": "venlafaxine → ________ (brand)",
+        "answer": "Effexor XR"
+      },
+      {
+        "id": "generic_to_brand-fib-30",
+        "question": "desvenlafaxine → ________ (brand)",
+        "answer": "Pristiq"
+      },
+      {
+        "id": "generic_to_brand-fib-31",
+        "question": "aripiprazole → ________ (brand)",
+        "answer": "Abilify"
+      },
+      {
+        "id": "generic_to_brand-fib-32",
+        "question": "quetiapine → ________ (brand)",
+        "answer": "Seroquel"
+      },
+      {
+        "id": "generic_to_brand-fib-33",
+        "question": "olanzapine → ________ (brand)",
+        "answer": "Zyprexa"
+      },
+      {
+        "id": "generic_to_brand-fib-34",
+        "question": "risperidone → ________ (brand)",
+        "answer": "Risperdal"
+      },
+      {
+        "id": "generic_to_brand-fib-35",
+        "question": "methylphenidate ER → ________ (brand)",
+        "answer": "Concerta"
+      },
+      {
+        "id": "generic_to_brand-fib-36",
+        "question": "amphetamine/dextroamphetamine → ________ (brand)",
+        "answer": "Adderall XR"
+      },
+      {
+        "id": "generic_to_brand-fib-37",
+        "question": "atomoxetine → ________ (brand)",
+        "answer": "Strattera"
+      },
+      {
+        "id": "generic_to_brand-fib-38",
+        "question": "dexmethylphenidate → ________ (brand)",
+        "answer": "Focalin XR"
+      },
+      {
+        "id": "generic_to_brand-fib-39",
+        "question": "lamotrigine → ________ (brand)",
+        "answer": "Lamictal"
+      },
+      {
+        "id": "generic_to_brand-fib-40",
+        "question": "topiramate → ________ (brand)",
+        "answer": "Topamax"
+      },
+      {
+        "id": "generic_to_brand-fib-41",
+        "question": "levetiracetam → ________ (brand)",
+        "answer": "Keppra"
+      },
+      {
+        "id": "generic_to_brand-fib-42",
+        "question": "gabapentin → ________ (brand)",
+        "answer": "Neurontin"
+      },
+      {
+        "id": "generic_to_brand-fib-43",
+        "question": "divalproex → ________ (brand)",
+        "answer": "Depakote"
+      },
+      {
+        "id": "generic_to_brand-fib-44",
+        "question": "lidocaine → ________ (brand)",
+        "answer": "Lidoderm"
+      },
+      {
+        "id": "generic_to_brand-fib-45",
+        "question": "sumatriptan → ________ (brand)",
+        "answer": "Imitrex"
+      },
+      {
+        "id": "generic_to_brand-fib-46",
+        "question": "clopidogrel → ________ (brand)",
+        "answer": "Plavix"
+      },
+      {
+        "id": "generic_to_brand-fib-47",
+        "question": "ticagrelor → ________ (brand)",
+        "answer": "Brilinta"
+      },
+      {
+        "id": "generic_to_brand-fib-48",
+        "question": "dabigatran → ________ (brand)",
+        "answer": "Pradaxa"
+      },
+      {
+        "id": "generic_to_brand-fib-49",
+        "question": "apixaban → ________ (brand)",
+        "answer": "Eliquis"
+      },
+      {
+        "id": "generic_to_brand-fib-50",
+        "question": "warfarin → ________ (brand)",
+        "answer": "Warfarin"
+      },
+      {
+        "id": "generic_to_brand-fib-51",
+        "question": "adalimumab → ________ (brand)",
+        "answer": "Humira"
+      },
+      {
+        "id": "generic_to_brand-fib-52",
+        "question": "etanercept → ________ (brand)",
+        "answer": "Enbrel"
+      },
+      {
+        "id": "generic_to_brand-fib-53",
+        "question": "infliximab → ________ (brand)",
+        "answer": "Remicade"
+      },
+      {
+        "id": "generic_to_brand-fib-54",
+        "question": "ustekinumab → ________ (brand)",
+        "answer": "Stelara"
+      },
+      {
+        "id": "generic_to_brand-fib-55",
+        "question": "tofacitinib → ________ (brand)",
+        "answer": "Xeljanz"
+      },
+      {
+        "id": "generic_to_brand-fib-56",
+        "question": "secukinumab → ________ (brand)",
+        "answer": "Cosentyx"
+      },
+      {
+        "id": "generic_to_brand-fib-57",
+        "question": "ledipasvir/sofosbuvir → ________ (brand)",
+        "answer": "Harvoni"
+      },
+      {
+        "id": "generic_to_brand-fib-58",
+        "question": "sofosbuvir/velpatasvir → ________ (brand)",
+        "answer": "Epclusa"
+      },
+      {
+        "id": "generic_to_brand-fib-59",
+        "question": "sofosbuvir → ________ (brand)",
+        "answer": "Sovaldi"
+      },
+      {
+        "id": "generic_to_brand-fib-60",
+        "question": "pembrolizumab → ________ (brand)",
+        "answer": "Keytruda"
+      },
+      {
+        "id": "generic_to_brand-fib-61",
+        "question": "nivolumab → ________ (brand)",
+        "answer": "Opdivo"
+      },
+      {
+        "id": "generic_to_brand-fib-62",
+        "question": "trastuzumab → ________ (brand)",
+        "answer": "Herceptin"
+      },
+      {
+        "id": "generic_to_brand-fib-63",
+        "question": "bevacizumab → ________ (brand)",
+        "answer": "Avastin"
+      },
+      {
+        "id": "generic_to_brand-fib-64",
+        "question": "imatinib → ________ (brand)",
+        "answer": "Gleevec"
+      },
+      {
+        "id": "generic_to_brand-fib-65",
+        "question": "lenalidomide → ________ (brand)",
+        "answer": "Revlimid"
+      },
+      {
+        "id": "generic_to_brand-fib-66",
+        "question": "palbociclib → ________ (brand)",
+        "answer": "Ibrance"
+      },
+      {
+        "id": "generic_to_brand-fib-67",
+        "question": "erlotinib → ________ (brand)",
+        "answer": "Tarceva"
+      },
+      {
+        "id": "generic_to_brand-fib-68",
+        "question": "ibrutinib → ________ (brand)",
+        "answer": "Imbruvica"
+      },
+      {
+        "id": "generic_to_brand-fib-69",
+        "question": "denosumab → ________ (brand)",
+        "answer": "Prolia"
+      },
+      {
+        "id": "generic_to_brand-fib-70",
+        "question": "abiraterone → ________ (brand)",
+        "answer": "Zytiga"
+      },
+      {
+        "id": "generic_to_brand-fib-71",
+        "question": "enzalutamide → ________ (brand)",
+        "answer": "Xtandi"
+      },
+      {
+        "id": "generic_to_brand-fib-72",
+        "question": "leuprolide → ________ (brand)",
+        "answer": "Lupron"
+      },
+      {
+        "id": "generic_to_brand-fib-73",
+        "question": "teriparatide → ________ (brand)",
+        "answer": "Forteo"
+      },
+      {
+        "id": "generic_to_brand-fib-74",
+        "question": "risedronate → ________ (brand)",
+        "answer": "Actonel"
+      },
+      {
+        "id": "generic_to_brand-fib-75",
+        "question": "alendronate → ________ (brand)",
+        "answer": "Fosamax"
+      },
+      {
+        "id": "generic_to_brand-fib-76",
+        "question": "raloxifene → ________ (brand)",
+        "answer": "Evista"
+      },
+      {
+        "id": "generic_to_brand-fib-77",
+        "question": "ibandronate → ________ (brand)",
+        "answer": "Boniva"
+      },
+      {
+        "id": "generic_to_brand-fib-78",
+        "question": "levalbuterol → ________ (brand)",
+        "answer": "Xopenex"
+      },
+      {
+        "id": "generic_to_brand-fib-79",
+        "question": "ipratropium → ________ (brand)",
+        "answer": "Atrovent"
+      },
+      {
+        "id": "generic_to_brand-fib-80",
+        "question": "montelukast → ________ (brand)",
+        "answer": "Singulair"
+      },
+      {
+        "id": "generic_to_brand-fib-81",
+        "question": "ciclesonide → ________ (brand)",
+        "answer": "Alvesco"
+      },
+      {
+        "id": "generic_to_brand-fib-82",
+        "question": "budesonide → ________ (brand)",
+        "answer": "Pulmicort"
+      },
+      {
+        "id": "generic_to_brand-fib-83",
+        "question": "fluticasone → ________ (brand)",
+        "answer": "Flovent"
+      },
+      {
+        "id": "generic_to_brand-fib-84",
+        "question": "beclomethasone → ________ (brand)",
+        "answer": "Qvar"
+      },
+      {
+        "id": "generic_to_brand-fib-85",
+        "question": "fluticasone/vilanterol → ________ (brand)",
+        "answer": "Breo Ellipta"
+      },
+      {
+        "id": "generic_to_brand-fib-86",
+        "question": "umeclidinium/vilanterol → ________ (brand)",
+        "answer": "Anoro Ellipta"
+      },
+      {
+        "id": "generic_to_brand-fib-87",
+        "question": "umeclidinium → ________ (brand)",
+        "answer": "Incruse Ellipta"
+      },
+      {
+        "id": "generic_to_brand-fib-88",
+        "question": "aclidinium → ________ (brand)",
+        "answer": "Tudorza Pressair"
+      },
+      {
+        "id": "generic_to_brand-fib-89",
+        "question": "ipratropium/albuterol → ________ (brand)",
+        "answer": "DuoNeb"
+      },
+      {
+        "id": "generic_to_brand-fib-90",
+        "question": "ipratropium/albuterol → ________ (brand)",
+        "answer": "Combivent Respimat"
+      },
+      {
+        "id": "generic_to_brand-fib-91",
+        "question": "azithromycin → ________ (brand)",
+        "answer": "Zithromax"
+      },
+      {
+        "id": "generic_to_brand-fib-92",
+        "question": "amoxicillin → ________ (brand)",
+        "answer": "Amoxil"
+      },
+      {
+        "id": "generic_to_brand-fib-93",
+        "question": "amoxicillin/clavulanate → ________ (brand)",
+        "answer": "Augmentin"
+      },
+      {
+        "id": "generic_to_brand-fib-94",
+        "question": "cephalexin → ________ (brand)",
+        "answer": "Keflex"
+      },
+      {
+        "id": "generic_to_brand-fib-95",
+        "question": "cefdinir → ________ (brand)",
+        "answer": "Omnicef"
+      },
+      {
+        "id": "generic_to_brand-fib-96",
+        "question": "cefuroxime → ________ (brand)",
+        "answer": "Ceftin"
+      },
+      {
+        "id": "generic_to_brand-fib-97",
+        "question": "levofloxacin → ________ (brand)",
+        "answer": "Levaquin"
+      },
+      {
+        "id": "generic_to_brand-fib-98",
+        "question": "ciprofloxacin → ________ (brand)",
+        "answer": "Cipro"
+      },
+      {
+        "id": "generic_to_brand-fib-99",
+        "question": "sulfamethoxazole/trimethoprim → ________ (brand)",
+        "answer": "Bactrim"
+      },
+      {
+        "id": "generic_to_brand-fib-100",
+        "question": "nitrofurantoin → ________ (brand)",
+        "answer": "Macrobid"
+      },
+      {
+        "id": "generic_to_brand-fib-101",
+        "question": "doxycycline hyclate → ________ (brand)",
+        "answer": "Doxycycline"
+      },
+      {
+        "id": "generic_to_brand-fib-102",
+        "question": "minocycline → ________ (brand)",
+        "answer": "Minocin"
+      },
+      {
+        "id": "generic_to_brand-fib-103",
+        "question": "metronidazole → ________ (brand)",
+        "answer": "Flagyl"
+      },
+      {
+        "id": "generic_to_brand-fib-104",
+        "question": "clindamycin → ________ (brand)",
+        "answer": "Cleocin"
+      },
+      {
+        "id": "generic_to_brand-fib-105",
+        "question": "fluconazole → ________ (brand)",
+        "answer": "Diflucan"
+      },
+      {
+        "id": "generic_to_brand-fib-106",
+        "question": "vancomycin → ________ (brand)",
+        "answer": "Vancocin"
+      },
+      {
+        "id": "generic_to_brand-fib-107",
+        "question": "acyclovir → ________ (brand)",
+        "answer": "Zovirax"
+      },
+      {
+        "id": "generic_to_brand-fib-108",
+        "question": "valacyclovir → ________ (brand)",
+        "answer": "Valtrex"
+      },
+      {
+        "id": "generic_to_brand-fib-109",
+        "question": "baclofen → ________ (brand)",
+        "answer": "Lioresal"
+      },
+      {
+        "id": "generic_to_brand-fib-110",
+        "question": "tizanidine → ________ (brand)",
+        "answer": "Zanaflex"
+      },
+      {
+        "id": "generic_to_brand-fib-111",
+        "question": "cyclobenzaprine → ________ (brand)",
+        "answer": "Flexeril"
+      },
+      {
+        "id": "generic_to_brand-fib-112",
+        "question": "carisoprodol → ________ (brand)",
+        "answer": "Soma"
+      },
+      {
+        "id": "generic_to_brand-fib-113",
+        "question": "methocarbamol → ________ (brand)",
+        "answer": "Robaxin"
+      },
+      {
+        "id": "generic_to_brand-fib-114",
+        "question": "orphenadrine → ________ (brand)",
+        "answer": "Norflex"
+      },
+      {
+        "id": "generic_to_brand-fib-115",
+        "question": "furosemide → ________ (brand)",
+        "answer": "Lasix"
+      },
+      {
+        "id": "generic_to_brand-fib-116",
+        "question": "hydrochlorothiazide → ________ (brand)",
+        "answer": "Microzide"
+      },
+      {
+        "id": "generic_to_brand-fib-117",
+        "question": "spironolactone → ________ (brand)",
+        "answer": "Aldactone"
+      },
+      {
+        "id": "generic_to_brand-fib-118",
+        "question": "triamterene/hydrochlorothiazide → ________ (brand)",
+        "answer": "Dyazide"
+      },
+      {
+        "id": "generic_to_brand-fib-119",
+        "question": "bumetanide → ________ (brand)",
+        "answer": "Bumex"
+      },
+      {
+        "id": "generic_to_brand-fib-120",
+        "question": "torsemide → ________ (brand)",
+        "answer": "Demadex"
+      },
+      {
+        "id": "generic_to_brand-fib-121",
+        "question": "metolazone → ________ (brand)",
+        "answer": "Zaroxolyn"
+      },
+      {
+        "id": "generic_to_brand-fib-122",
+        "question": "lisinopril → ________ (brand)",
+        "answer": "Prinivil"
+      },
+      {
+        "id": "generic_to_brand-fib-123",
+        "question": "losartan → ________ (brand)",
+        "answer": "Cozaar"
+      },
+      {
+        "id": "generic_to_brand-fib-124",
+        "question": "valsartan → ________ (brand)",
+        "answer": "Diovan"
+      },
+      {
+        "id": "generic_to_brand-fib-125",
+        "question": "olmesartan → ________ (brand)",
+        "answer": "Benicar"
+      },
+      {
+        "id": "generic_to_brand-fib-126",
+        "question": "ramipril → ________ (brand)",
+        "answer": "Altace"
+      },
+      {
+        "id": "generic_to_brand-fib-127",
+        "question": "benazepril → ________ (brand)",
+        "answer": "Lotensin"
+      },
+      {
+        "id": "generic_to_brand-fib-128",
+        "question": "enalapril → ________ (brand)",
+        "answer": "Vasotec"
+      },
+      {
+        "id": "generic_to_brand-fib-129",
+        "question": "amlodipine → ________ (brand)",
+        "answer": "Norvasc"
+      },
+      {
+        "id": "generic_to_brand-fib-130",
+        "question": "metoprolol tartrate → ________ (brand)",
+        "answer": "Lopressor"
+      },
+      {
+        "id": "generic_to_brand-fib-131",
+        "question": "metoprolol succinate → ________ (brand)",
+        "answer": "Toprol XL"
+      },
+      {
+        "id": "generic_to_brand-fib-132",
+        "question": "atenolol → ________ (brand)",
+        "answer": "Tenormin"
+      },
+      {
+        "id": "generic_to_brand-fib-133",
+        "question": "carvedilol → ________ (brand)",
+        "answer": "Coreg"
+      },
+      {
+        "id": "generic_to_brand-fib-134",
+        "question": "propranolol → ________ (brand)",
+        "answer": "Inderal"
+      },
+      {
+        "id": "generic_to_brand-fib-135",
+        "question": "nebivolol → ________ (brand)",
+        "answer": "Bystolic"
+      },
+      {
+        "id": "generic_to_brand-fib-136",
+        "question": "hydralazine → ________ (brand)",
+        "answer": "Hydralazine"
+      },
+      {
+        "id": "generic_to_brand-fib-137",
+        "question": "clonidine → ________ (brand)",
+        "answer": "Catapres"
+      },
+      {
+        "id": "generic_to_brand-fib-138",
+        "question": "olmesartan/hydrochlorothiazide → ________ (brand)",
+        "answer": "Benicar HCT"
+      },
+      {
+        "id": "generic_to_brand-fib-139",
+        "question": "valsartan/hydrochlorothiazide → ________ (brand)",
+        "answer": "Diovan HCT"
+      },
+      {
+        "id": "generic_to_brand-fib-140",
+        "question": "lisinopril/hydrochlorothiazide → ________ (brand)",
+        "answer": "Zestoretic"
+      },
+      {
+        "id": "generic_to_brand-fib-141",
+        "question": "losartan/hydrochlorothiazide → ________ (brand)",
+        "answer": "Hyzaar"
+      },
+      {
+        "id": "generic_to_brand-fib-142",
+        "question": "verapamil → ________ (brand)",
+        "answer": "Calan"
+      },
+      {
+        "id": "generic_to_brand-fib-143",
+        "question": "diltiazem → ________ (brand)",
+        "answer": "Cardizem"
+      },
+      {
+        "id": "generic_to_brand-fib-144",
+        "question": "felodipine → ________ (brand)",
+        "answer": "Plendil"
+      },
+      {
+        "id": "generic_to_brand-fib-145",
+        "question": "nifedipine → ________ (brand)",
+        "answer": "Adalat CC"
+      },
+      {
+        "id": "generic_to_brand-fib-146",
+        "question": "amlodipine/benazepril → ________ (brand)",
+        "answer": "Lotrel"
+      },
+      {
+        "id": "generic_to_brand-fib-147",
+        "question": "amlodipine/atorvastatin → ________ (brand)",
+        "answer": "Caduet"
+      },
+      {
+        "id": "generic_to_brand-fib-148",
+        "question": "atorvastatin → ________ (brand)",
+        "answer": "Lipitor"
+      },
+      {
+        "id": "generic_to_brand-fib-149",
+        "question": "simvastatin → ________ (brand)",
+        "answer": "Zocor"
+      },
+      {
+        "id": "generic_to_brand-fib-150",
+        "question": "pravastatin → ________ (brand)",
+        "answer": "Pravachol"
+      },
+      {
+        "id": "generic_to_brand-fib-151",
+        "question": "lovastatin → ________ (brand)",
+        "answer": "Mevacor"
+      },
+      {
+        "id": "generic_to_brand-fib-152",
+        "question": "pitavastatin → ________ (brand)",
+        "answer": "Livalo"
+      },
+      {
+        "id": "generic_to_brand-fib-153",
+        "question": "colesevelam → ________ (brand)",
+        "answer": "Welchol"
+      },
+      {
+        "id": "generic_to_brand-fib-154",
+        "question": "fenofibrate → ________ (brand)",
+        "answer": "Tricor"
+      },
+      {
+        "id": "generic_to_brand-fib-155",
+        "question": "gemfibrozil → ________ (brand)",
+        "answer": "Lopid"
+      },
+      {
+        "id": "generic_to_brand-fib-156",
+        "question": "niacin ER → ________ (brand)",
+        "answer": "Niaspan"
+      },
+      {
+        "id": "generic_to_brand-fib-157",
+        "question": "icosapent ethyl → ________ (brand)",
+        "answer": "Vascepa"
+      },
+      {
+        "id": "generic_to_brand-fib-158",
+        "question": "omega-3 acid ethyl esters → ________ (brand)",
+        "answer": "Lovaza"
+      },
+      {
+        "id": "generic_to_brand-fib-159",
+        "question": "empagliflozin → ________ (brand)",
+        "answer": "Jardiance"
+      },
+      {
+        "id": "generic_to_brand-fib-160",
+        "question": "canagliflozin → ________ (brand)",
+        "answer": "Invokana"
+      },
+      {
+        "id": "generic_to_brand-fib-161",
+        "question": "dapagliflozin → ________ (brand)",
+        "answer": "Farxiga"
+      },
+      {
+        "id": "generic_to_brand-fib-162",
+        "question": "metformin → ________ (brand)",
+        "answer": "Glucophage"
+      },
+      {
+        "id": "generic_to_brand-fib-163",
+        "question": "liraglutide → ________ (brand)",
+        "answer": "Victoza"
+      },
+      {
+        "id": "generic_to_brand-fib-164",
+        "question": "exenatide ER → ________ (brand)",
+        "answer": "Bydureon"
+      },
+      {
+        "id": "generic_to_brand-fib-165",
+        "question": "dulaglutide → ________ (brand)",
+        "answer": "Trulicity"
+      },
+      {
+        "id": "generic_to_brand-fib-166",
+        "question": "semaglutide → ________ (brand)",
+        "answer": "Ozempic"
+      },
+      {
+        "id": "generic_to_brand-fib-167",
+        "question": "insulin glargine → ________ (brand)",
+        "answer": "Basaglar"
+      },
+      {
+        "id": "generic_to_brand-fib-168",
+        "question": "insulin glargine → ________ (brand)",
+        "answer": "Toujeo"
+      },
+      {
+        "id": "generic_to_brand-fib-169",
+        "question": "insulin degludec → ________ (brand)",
+        "answer": "Tresiba"
+      },
+      {
+        "id": "generic_to_brand-fib-170",
+        "question": "insulin NPH → ________ (brand)",
+        "answer": "Humulin N"
+      },
+      {
+        "id": "generic_to_brand-fib-171",
+        "question": "regular insulin → ________ (brand)",
+        "answer": "Humulin R"
+      },
+      {
+        "id": "generic_to_brand-fib-172",
+        "question": "insulin NPH/regular → ________ (brand)",
+        "answer": "Humulin 70/30"
+      },
+      {
+        "id": "generic_to_brand-fib-173",
+        "question": "glipizide → ________ (brand)",
+        "answer": "Glucotrol"
+      },
+      {
+        "id": "generic_to_brand-fib-174",
+        "question": "glimepiride → ________ (brand)",
+        "answer": "Amaryl"
+      },
+      {
+        "id": "generic_to_brand-fib-175",
+        "question": "glyburide → ________ (brand)",
+        "answer": "Diabeta"
+      },
+      {
+        "id": "generic_to_brand-fib-176",
+        "question": "pioglitazone → ________ (brand)",
+        "answer": "Actos"
+      },
+      {
+        "id": "generic_to_brand-fib-177",
+        "question": "sitagliptin/metformin → ________ (brand)",
+        "answer": "Janumet"
+      },
+      {
+        "id": "generic_to_brand-fib-178",
+        "question": "dapagliflozin/metformin → ________ (brand)",
+        "answer": "Xigduo XR"
+      },
+      {
+        "id": "generic_to_brand-fib-179",
+        "question": "empagliflozin/metformin → ________ (brand)",
+        "answer": "Synjardy"
+      },
+      {
+        "id": "generic_to_brand-fib-180",
+        "question": "mupirocin → ________ (brand)",
+        "answer": "Bactroban"
+      },
+      {
+        "id": "generic_to_brand-fib-181",
+        "question": "triamcinolone → ________ (brand)",
+        "answer": "Kenalog"
+      },
+      {
+        "id": "generic_to_brand-fib-182",
+        "question": "mometasone → ________ (brand)",
+        "answer": "Elocon"
+      },
+      {
+        "id": "generic_to_brand-fib-183",
+        "question": "clobetasol → ________ (brand)",
+        "answer": "Temovate"
+      },
+      {
+        "id": "generic_to_brand-fib-184",
+        "question": "clotrimazole/betamethasone → ________ (brand)",
+        "answer": "Lotrisone"
+      },
+      {
+        "id": "generic_to_brand-fib-185",
+        "question": "tretinoin → ________ (brand)",
+        "answer": "Retin-A"
+      },
+      {
+        "id": "generic_to_brand-fib-186",
+        "question": "desloratadine → ________ (brand)",
+        "answer": "Clarinex"
+      },
+      {
+        "id": "generic_to_brand-fib-187",
+        "question": "cetirizine → ________ (brand)",
+        "answer": "Zyrtec"
+      },
+      {
+        "id": "generic_to_brand-fib-188",
+        "question": "levocetirizine → ________ (brand)",
+        "answer": "Xyzal"
+      },
+      {
+        "id": "generic_to_brand-fib-189",
+        "question": "fexofenadine → ________ (brand)",
+        "answer": "Allegra"
+      },
+      {
+        "id": "generic_to_brand-fib-190",
+        "question": "loratadine → ________ (brand)",
+        "answer": "Claritin"
+      },
+      {
+        "id": "generic_to_brand-fib-191",
+        "question": "fluticasone nasal → ________ (brand)",
+        "answer": "Flonase"
+      },
+      {
+        "id": "generic_to_brand-fib-192",
+        "question": "azelastine nasal → ________ (brand)",
+        "answer": "Astelin"
+      },
+      {
+        "id": "generic_to_brand-fib-193",
+        "question": "olopatadine → ________ (brand)",
+        "answer": "Pataday"
+      },
+      {
+        "id": "generic_to_brand-fib-194",
+        "question": "cyclosporine ophthalmic → ________ (brand)",
+        "answer": "Restasis"
+      },
+      {
+        "id": "generic_to_brand-fib-195",
+        "question": "latanoprost → ________ (brand)",
+        "answer": "Xalatan"
+      },
+      {
+        "id": "generic_to_brand-fib-196",
+        "question": "travoprost → ________ (brand)",
+        "answer": "Travatan Z"
+      },
+      {
+        "id": "generic_to_brand-fib-197",
+        "question": "dorzolamide/timolol → ________ (brand)",
+        "answer": "Cosopt"
+      },
+      {
+        "id": "generic_to_brand-fib-198",
+        "question": "timolol → ________ (brand)",
+        "answer": "Timoptic"
+      },
+      {
+        "id": "generic_to_brand-fib-199",
+        "question": "brimonidine → ________ (brand)",
+        "answer": "Alphagan P"
+      },
+      {
+        "id": "generic_to_brand-fib-200",
+        "question": "famotidine → ________ (brand)",
+        "answer": "Pepcid"
+      }
+    ]
+  }
+}
