@@ -47,11 +47,22 @@ def build_multiple_choice(
         distractors = rng.sample(pool, k=min(distractor_count, len(pool)))
         options = distractors + [correct]
         rng.shuffle(options)
+        labeled_options = []
+        for option_idx, option_text in enumerate(options):
+            label = chr(ord("A") + option_idx)
+            labeled_options.append(
+                {
+                    "label": label,
+                    "display_label": f"🔵 {label}",
+                    "text": option_text,
+                }
+            )
         questions.append(
             {
                 "id": f"{direction}-mc-{idx}",
                 "question": f"What is the {target_field} for {prompt_value}?",
                 "options": options,
+                "labeled_options": labeled_options,
                 "answer": correct,
             }
         )
